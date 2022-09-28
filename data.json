@@ -1,0 +1,297 @@
+{
+  "avgsalarybyrole": [
+    {
+      "id": "1",
+      "role": "Elementry School Teacher",
+      "avg": "average salary",
+      "salary": "$2,44,444 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "2",
+      "role": "Human resource specialist",
+      "avg": "average salary",
+      "salary": "$2,44,444 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "3",
+      "role": "Accountant",
+      "avg": "average salary",
+      "salary": "$2,44,444 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "4",
+      "role": "Customer care specialist",
+      "avg": "average salary",
+      "salary": "$2,44,444 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "5",
+      "role": "Office assistant",
+      "avg": "average salary",
+      "salary": "$2,44,544 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "6",
+      "role": "Back office assitant",
+      "avg": "average salary",
+      "salary": "$2,44,544 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "7",
+      "role": "Graphic Designer",
+      "avg": "average salary",
+      "salary": "$2,44,544 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "8",
+      "role": "Full stack web developer",
+      "avg": "average salary",
+      "salary": "$2,44,544 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "9",
+      "role": "Front end developer",
+      "avg": "average salary",
+      "salary": "$2,44,544 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "10",
+      "role": "Backend developer",
+      "avg": "average salary",
+      "salary": "$2,44,544 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "11",
+      "role": "Python developer",
+      "avg": "average salary",
+      "salary": "$2,44,544 Year",
+      "Job": "Job Openings"
+    },
+    {
+      "id": "12",
+      "role": "Civil Engineer",
+      "avg": "average salary",
+      "salary": "$2,44,544 Year",
+      "Job": "Job Openings"
+    }
+  ],
+  "toppayingcompanies": [
+    {
+      "id": 1,
+      "comapny": "Capagemini",
+      "ratingimg": "4",
+      "ratings": "8.8k reviews",
+      "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/064eff7aab72cb84fbb7f92b82f6ac4a"
+    },
+    {
+      "id": 2,
+      "comapny": "TATA Consultancy Services",
+      "ratingimg": "4",
+      "ratings": "21.2k reviews",
+      "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/13b693b4dcc055d2344351b4c9a148e9"
+    },
+    {
+      "id": 3,
+      "comapny": "Accenture",
+      "ratingimg": "4",
+      "ratings": "30k reviews ",
+      "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/fff3cc32d7e908a657ea1da5a4a1732b"
+    },
+    {
+      "id": 4,
+      "comapny": "cognizant Technology",
+      "ratingimg": "3",
+      "ratings": "24.2k reviews",
+      "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/ce43c82fedc38bf5739f8c90376c3b98"
+    },
+    {
+      "id": 5,
+      "comapny": "Byjus",
+      "ratingimg": "3",
+      "ratings": "407 reviews",
+      "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/349d1c5aed5c3943dadc47139a21b79d"
+    },
+    {
+      "id": 6,
+      "comapny": "IBM",
+      "ratingimg": "4",
+      "ratings": "31.7K reviews",
+      "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/e33d1816f29251d95814fd99eae809df"
+    },
+    {
+      "id": 7,
+      "comapny": "Amazon",
+      "ratingimg": "3",
+      "ratings": "88k reviews",
+      "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/3e9d43f5c277de169808abdcaf49ba2c"
+    },
+    {
+      "id": 8,
+      "comapny": "Indigo Airlines",
+      "ratingimg": "4",
+      "ratings": "418 reviews",
+      "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/5335229f1b22e90f1e5eafb892704339"
+    }
+  ],
+  "CompareWorkinat": [
+    {
+      "id": 1,
+      "css-8g222x href": "https://in.indeed.com/companies/compare/0c3c3a1a8167443f-5ba508f41c20a85b",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/46105bb1392fe4bdf5127cb50b19e04c",
+      "css-8p2fs": "Ride.Swiggy",
+      "css-btaxn3": 3.9,
+      "css-kbqft4": "336 reviews",
+      "css-1strlbe src 2": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/f06bb59dcc6c9b7c5b1841c1dfdffee3",
+      "css-8p2fs 2": "Shadowfax",
+      "css-btaxn3 2": 3.1,
+      "css-kbqft4 2": "24 reviews"
+    },
+    {
+      "id": 2,
+      "css-8g222x href": "https://in.indeed.com/companies/compare/a76b26e1b7b8259c-6e06fd6cf11179ff",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/acc45be8afc7564f93e984417862b07c",
+      "css-8p2fs": "Cyient",
+      "css-btaxn3": 3.5,
+      "css-kbqft4": "978 reviews",
+      "css-1strlbe src 2": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/437ffcce064caefa9bae9b5f73921b3b",
+      "css-8p2fs 2": "KPIT Technologies",
+      "css-btaxn3 2": 3.7,
+      "css-kbqft4 2": "621 reviews"
+    },
+    {
+      "id": 3,
+      "css-8g222x href": "https://in.indeed.com/companies/compare/24e70608a59e4452-9da4060e34d541ef",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/bb45fcbde221cc5789506c52752573de",
+      "css-8p2fs": "Nokia",
+      "css-btaxn3": 4.1,
+      "css-kbqft4": "5.1K reviews",
+      "css-1strlbe src 2": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/c50f14536e0deeae1493678dfe91b816",
+      "css-8p2fs 2": "Ericsson-Worldwide",
+      "css-btaxn3 2": 4.1,
+      "css-kbqft4 2": "6.7K reviews"
+    },
+    {
+      "id": 4,
+      "css-8g222x href": "https://in.indeed.com/companies/compare/6738d29f71096557-7b1767b41e41cf21",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/385b77e9c87d7f8b8f83b6709b610377",
+      "css-8p2fs": "NTT DATA",
+      "css-btaxn3": 3.4,
+      "css-kbqft4": "3.6K reviews",
+      "css-1strlbe src 2": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/ab7a756988f7ab7596f8b9aa898dff4f",
+      "css-8p2fs 2": "HCL Technologies",
+      "css-btaxn3 2": 3.7,
+      "css-kbqft4 2": "10.1K reviews"
+    }
+  ],
+  "Popularcompanies": [
+    {
+      "id": 1,
+      "css-1eht0sl href": "https://in.indeed.com/cmp/Ride.swiggy",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/46105bb1392fe4bdf5127cb50b19e04c",
+      "css-1mg01d1": "Ride.Swiggy",
+      "css-73il1y href": "https://in.indeed.com/cmp/Ride.swiggy/reviews",
+      "css-hid0zu": "336 reviews",
+      "css-1s5eo7v href 2": "https://in.indeed.com/cmp/Ride.swiggy/salaries",
+      "css-1s5eo7v href 3": "https://in.indeed.com/cmp/Ride.swiggy/faq",
+      "css-1s5eo7v href 4": "https://in.indeed.com/cmp/Ride.swiggy/jobs"
+    },
+    {
+      "id": 2,
+      "css-1eht0sl href": "https://in.indeed.com/cmp/Cyient",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/acc45be8afc7564f93e984417862b07c",
+      "css-1mg01d1": "Cyient",
+      "css-73il1y href": "https://in.indeed.com/cmp/Cyient/reviews",
+      "css-hid0zu": "978 reviews",
+      "css-1s5eo7v href 2": "https://in.indeed.com/cmp/Cyient/salaries",
+      "css-1s5eo7v href 3": "https://in.indeed.com/cmp/Cyient/faq",
+      "css-1s5eo7v href 4": "https://in.indeed.com/cmp/Cyient/jobs"
+    },
+    {
+      "id": 3,
+      "css-1eht0sl href": "https://in.indeed.com/cmp/Nokia",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/bb45fcbde221cc5789506c52752573de",
+      "css-1mg01d1": "Nokia",
+      "css-73il1y href": "https://in.indeed.com/cmp/Nokia/reviews",
+      "css-hid0zu": "5,137 reviews",
+      "css-1s5eo7v href 2": "https://in.indeed.com/cmp/Nokia/salaries",
+      "css-1s5eo7v href 3": "https://in.indeed.com/cmp/Nokia/faq",
+      "css-1s5eo7v href 4": "https://in.indeed.com/cmp/Nokia/jobs"
+    },
+    {
+      "id": 4,
+      "css-1eht0sl href": "https://in.indeed.com/cmp/Ntt-Data",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/385b77e9c87d7f8b8f83b6709b610377",
+      "css-1mg01d1": "NTT DATA",
+      "css-73il1y href": "https://in.indeed.com/cmp/Ntt-Data/reviews",
+      "css-hid0zu": "3,561 reviews",
+      "css-1s5eo7v href 2": "https://in.indeed.com/cmp/Ntt-Data/salaries",
+      "css-1s5eo7v href 3": "https://in.indeed.com/cmp/Ntt-Data/faq",
+      "css-1s5eo7v href 4": "https://in.indeed.com/cmp/Ntt-Data/jobs"
+    },
+    {
+      "id": 5,
+      "css-1eht0sl href": "https://in.indeed.com/cmp/Concentrix",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/1ebdc1968db8fff488139bd4989c8aeb",
+      "css-1mg01d1": "Concentrix",
+      "css-73il1y href": "https://in.indeed.com/cmp/Concentrix/reviews",
+      "css-hid0zu": "29,019 reviews",
+      "css-1s5eo7v href 2": "https://in.indeed.com/cmp/Concentrix/salaries",
+      "css-1s5eo7v href 3": "https://in.indeed.com/cmp/Concentrix/faq",
+      "css-1s5eo7v href 4": "https://in.indeed.com/cmp/Concentrix/jobs"
+    },
+    {
+      "id": 6,
+      "css-1eht0sl href": "https://in.indeed.com/cmp/Hcl-Technologies",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/ab7a756988f7ab7596f8b9aa898dff4f",
+      "css-1mg01d1": "HCL Technologies",
+      "css-73il1y href": "https://in.indeed.com/cmp/Hcl-Technologies/reviews",
+      "css-hid0zu": "10,110 reviews",
+      "css-1s5eo7v href 2": "https://in.indeed.com/cmp/Hcl-Technologies/salaries",
+      "css-1s5eo7v href 3": "https://in.indeed.com/cmp/Hcl-Technologies/faq",
+      "css-1s5eo7v href 4": "https://in.indeed.com/cmp/Hcl-Technologies/jobs"
+    },
+    {
+      "id": 7,
+      "css-1eht0sl href": "https://in.indeed.com/cmp/Siemens",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/c8f427fe261be5c5bdc628e88abebb43",
+      "css-1mg01d1": "Siemens",
+      "css-73il1y href": "https://in.indeed.com/cmp/Siemens/reviews",
+      "css-hid0zu": "10,264 reviews",
+      "css-1s5eo7v href 2": "https://in.indeed.com/cmp/Siemens/salaries",
+      "css-1s5eo7v href 3": "https://in.indeed.com/cmp/Siemens/faq",
+      "css-1s5eo7v href 4": "https://in.indeed.com/cmp/Siemens/jobs"
+    },
+    {
+      "id": 8,
+      "css-1eht0sl href": "https://in.indeed.com/cmp/Deutsche-Bank",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/bcaa55ffe2abf43dd5af968419da22b9",
+      "css-1mg01d1": "Deutsche Bank",
+      "css-73il1y href": "https://in.indeed.com/cmp/Deutsche-Bank/reviews",
+      "css-hid0zu": "3,114 reviews",
+      "css-1s5eo7v href 2": "https://in.indeed.com/cmp/Deutsche-Bank/salaries",
+      "css-1s5eo7v href 3": "https://in.indeed.com/cmp/Deutsche-Bank/faq",
+      "css-1s5eo7v href 4": "https://in.indeed.com/cmp/Deutsche-Bank/jobs"
+    },
+    {
+      "id": 9,
+      "css-1eht0sl href": "https://in.indeed.com/cmp/Pwc",
+      "css-1strlbe src": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/64x64/9bd368668c567b1663b260b57f16d3aa",
+      "css-1mg01d1": "PwC",
+      "css-73il1y href": "https://in.indeed.com/cmp/Pwc/reviews",
+      "css-hid0zu": "8,197 reviews",
+      "css-1s5eo7v href 2": "https://in.indeed.com/cmp/Pwc/salaries",
+      "css-1s5eo7v href 3": "https://in.indeed.com/cmp/Pwc/faq",
+      "css-1s5eo7v href 4": "https://in.indeed.com/cmp/Pwc/jobs"
+    }
+  ]
+}
