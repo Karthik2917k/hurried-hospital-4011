@@ -88,57 +88,57 @@
   "toppayingcompanies": [
     {
       "id": 1,
-      "comapny": "Capagemini",
-      "ratingimg": "4",
+      "company": "Capagemini",
+      "ratingimg": 4,
       "ratings": "8.8k reviews",
       "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/064eff7aab72cb84fbb7f92b82f6ac4a"
     },
     {
       "id": 2,
-      "comapny": "TATA Consultancy Services",
-      "ratingimg": "4",
+      "company": "TATA Consultancy Services",
+      "ratingimg": 4,
       "ratings": "21.2k reviews",
       "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/13b693b4dcc055d2344351b4c9a148e9"
     },
     {
       "id": 3,
-      "comapny": "Accenture",
-      "ratingimg": "4",
+      "company": "Accenture",
+      "ratingimg": 4,
       "ratings": "30k reviews ",
       "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/fff3cc32d7e908a657ea1da5a4a1732b"
     },
     {
       "id": 4,
-      "comapny": "cognizant Technology",
-      "ratingimg": "3",
+      "company": "cognizant Technology",
+      "ratingimg": 4,
       "ratings": "24.2k reviews",
       "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/ce43c82fedc38bf5739f8c90376c3b98"
     },
     {
       "id": 5,
-      "comapny": "Byjus",
-      "ratingimg": "3",
+      "company": "Byjus",
+      "ratingimg": 3,
       "ratings": "407 reviews",
       "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/349d1c5aed5c3943dadc47139a21b79d"
     },
     {
       "id": 6,
-      "comapny": "IBM",
-      "ratingimg": "4",
+      "company": "IBM",
+      "ratingimg":4,
       "ratings": "31.7K reviews",
       "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/e33d1816f29251d95814fd99eae809df"
     },
     {
       "id": 7,
-      "comapny": "Amazon",
-      "ratingimg": "3",
+      "company": "Amazon",
+      "ratingimg": 3,
       "ratings": "88k reviews",
       "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/3e9d43f5c277de169808abdcaf49ba2c"
     },
     {
       "id": 8,
-      "comapny": "Indigo Airlines",
-      "ratingimg": "4",
+      "company": "Indigo Airlines",
+      "ratingimg": 4,
       "ratings": "418 reviews",
       "companylogo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/5335229f1b22e90f1e5eafb892704339"
     }
