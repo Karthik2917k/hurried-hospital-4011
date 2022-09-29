@@ -55,13 +55,13 @@ function SalaryGuide() {
                 p={8}
               >
                 <HStack spacing={4}>
-                  <FormControl id="email">
-                    <FormLabel>Email address</FormLabel>
-                    <Input type="email" />
+                  <FormControl id="role">
+                    <FormLabel>What</FormLabel>
+                    <Input type="text" />
                   </FormControl>
-                  <FormControl id="password">
-                    <FormLabel>Password</FormLabel>
-                    <Input type="password" />
+                  <FormControl id="location">
+                    <FormLabel>Where</FormLabel>
+                    <Input type="text" />
                   </FormControl>
                   <HStack spacing={10}>
                     <Button
@@ -97,7 +97,7 @@ function SalaryGuide() {
                     borderBottom="none"
                     borderTopRadius="8px"
                   >
-                    <Link p="10px">{el.role}</Link>
+                    <Link fontWeight="bold" p="10px">{el.role}</Link>
                   </Flex>
                   <Box>
                     <Flex
