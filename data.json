@@ -51,14 +51,14 @@
     },
     {
       "id": "8",
-      "role": "Full stack web developer",
+      "role": "Full_stack_web_developer",
       "avg": "average salary",
       "salary": "$2,44,544 Year",
       "Job": "Job Openings"
     },
     {
       "id": "9",
-      "role": "Front end developer",
+      "role": "Front_end_developer",
       "avg": "average salary",
       "salary": "$2,44,544 Year",
       "Job": "Job Openings"
@@ -271,7 +271,7 @@
     {
       "id": 1,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CPjDnHP016sdyjjkyf2ZqqTfy8f3968Yf3ooODGqsLDPmDu0vCJK0o7l5gVQGcbrip2QWxg_aQATf7w1qkknTG3LkHgZHen91XZrQVKykOS9JGziYHn6UwLSb2dDbi_uWb5uwoFRZF73AeGY0gzpBUEHjjFta1bHFwspXWUSzIdNzkQZu08Jgkl5vi8a6NSGWC0zVjYwmfLazTCliGZw5nzgXc24v571uMfZoWKVuBPs2QKJLXybDbaSOprLJlbJqGoIB2qVEQFLyOK66CIriCaW7Mr1x59hTzy8X5nv-1PfqCAf2JUMc6mAishZuKlalAYYT6dKaXsXf2xNMS36QqFceuo7yrRUgGJtOrCQLCG81EXVtQMAmmzEVebZmKviAFIvQ96xB9oFlywv487jch8MpieCakE4a-4pebfMKLrQOnqhHXk_5havtGKIakpZ2s22MvOloo5bqpBYm_MjqV8Iena5GQ0POOLRBRf3biHA%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Executive Officer",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "Arrovya Food Products",
       "companyLocation": "Noida",
@@ -294,10 +294,10 @@
     {
       "id": 2,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CLm2qyp_IbNsDM96FMhArG2HGU-YWgXbVSPKfAW7UOf07LN8hf-jMoFVFrPLJrOQno4oD5GEOj-TWtswrZFAMkVQbBcSsPWaDqM75Ac0DkS33EnPpr2P5FZbieFEK7j5OHhXzBfraZJMWmLAGU9GyhxrEZ0wIy7FzAEXTUFx_APiLeug0hV51kOKGUptUjAuoggJv2iZhCdHctFKKWVKicHvx1RvRPBpkzsj8UaNk8Y-RyH2C3WOUbKTLUxV8fN9CHIAqCMQrK0NxDVLS0hcOgoI-26lGAtkyeg58lh7PonI5jLGLgbz1GzELueY2KVAJaW7Lu_WASQpHvhENu4o7UJbR0JYhjR3QQOQ0we9YTMo9xJYP6nepKfAOuFqcRktbCo8lvpF9SM1SO7OfpXukUT3lJvxdMdWLmoTJ8rI_QMc-VbZFVI8y0LqAYXTma886BECX-WBbYpxl9Z23oB_yhC_0jW_gS8cgoWvCGVHdNE9EWMjhTh_Jz6RAtzlnWfgytZJx62JVyqg%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Sr Quality Control Engineer CNC Machine Shop",
+      "JobTitle": "Back_End_Developer",
       "label": "",
       "companyName": "MACHT Technologies (P) Ltd.",
-      "companyLocation": "Ghaziabad",
+      "companyLocation": "Bengaluru",
       "attribute_snippet": "₹30,000 a month",
       "category_1": "Full-time",
       "category_2": "Flexible shift",
@@ -317,10 +317,10 @@
     {
       "id": 3,
       "JobTitle href": "https://in.indeed.com/rc/clk?jk=64c1ec079e7b019f&from=mobhp_jobfeed&tk=1ge1aeovliem1801",
-      "JobTitle": "Software Engineer",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "CANGRA Talents",
-      "companyLocation": "Lucknow",
+      "companyLocation": "Hyderabad",
       "attribute_snippet": "Fresher",
       "category_1": "",
       "category_2": "",
@@ -340,10 +340,10 @@
     {
       "id": 4,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AL3YIf9tkPAFAL9BW_L0mglB6F903Lk6BLOR4CceNVbLxglaaF_c5itgtW8uV-FcUk3Id5saISEB6fh1ozSsKRZkaNoOs5brLSrx2VMY-bRNIml8tJYVbNL0KJKnzlBE5JtheYujk4qlchmFGJRg5af6ydSrBICMuemTL-0SYDFkjLXN4kbl162gITr6OSWYSeFUMVk79mfatmARtTvSAok503Q4BsB1msYtvFfVYsAvD8Ykbw2LDQU6RfJBl1F_azNO2suEHmHQscsSbOC6xuMuVoyJlU-XmcR0pw2u_Z4DAJB2jG41Ht2NwlRZGvUbKLARU1f07jiIU1DNqb_htwQ85g4p8ZfzJtrXWnR2-zr931-9l4cSQPNLKjYllXHzpvRYao4qZs7zNx5TdTMhNOCmi91YEmG-uENjiDqMdYsPrGfQAqzgrUz5ikY9YIuwGrA-EPsfzrK8x9cOZ6JNNIGex7o8d2GW-WVvjyZ6Q-9IVtek_iqcxj9AiYxACRmHZO9KRGXt78PDFqpXInKBLtZof2n2Kj1AThO1vzkSb4rg%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Customer Support Executive, Ecommerce Amazon Flipkart Female only",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "",
       "companyName": "Color Papers",
-      "companyLocation": "Lucknow",
+      "companyLocation": "Hyderabad",
       "attribute_snippet": "₹2,00,000 - ₹2,50,000 a year",
       "category_1": "Full-time",
       "category_2": "Day shift",
@@ -361,12 +361,35 @@
       "shelfItem": ""
     },
     {
+      "id": 5,
+      "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AWvmwVPeR-uEdlcEn7QfjBqjGRZJb02CsFiQo-8Ruu_Wm3wtg126aEzMHjtfh6Edt95MRoNADcV4VdLQCvqrBWndud15acnGTuwqimEdf6VvNGFHzlco13s9BCms1nRkGejc9UHplmYJ2oF_JxrQtcUBT1nwtUH9SD01B8OFrh6TqtEGxxoqYhoj75BCY1HTCbQbdSuZDav5-Mwp6rlCr3U-25fyRsGiHsQnKW5q4Ukqm8aDWS6BatmSjqRWQWGF93RMib606y7FnAqMUw_LzlsQnxpjcVjUGZKxfu2um-AkVbECH3VeLZ1EU1PsRz2d3gqRTuC1zCeAg5Hu3QFZP0cxP_yAVlhOWSzFuwvF_aTViI1dKs0XsyS2w21l8KIGF9YhTcJcs3eJBXsqljEzvmafeQCGfIOfgW8QBFsXfIyZp_IkCq2mmeB6Tx8Q2r1AwjXHk9jEhTVgAkyHTJ73gyi5ybyE4_w6JOJyG2Th1Q-g%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
+      "JobTitle": "Back_End_Developer",
+      "label": "",
+      "companyName": "RENS TOURISM INDIA PVT LTD",
+      "companyLocation": "Delhi",
+      "attribute_snippet": "₹35,000 - ₹45,000 a month",
+      "category_1": "Full-time",
+      "category_2": "Day shift",
+      "ialbl": "Apply securely with Indeed Resume",
+      "job_snippet": "Planning and preparing detailed travel itineraries for domestic and outbound destinations.",
+      "date": "Active 2 days ago",
+      "visually_hidden": "Employer",
+      "date_2": "• Based on",
+      "date_3": "jobs you explored",
+      "more-items": null,
+      "job_snippet_2": "Knowledge of hotel booking System, Rezlive, Grn connect, TBO etc.",
+      "job_snippet_3": "Knowledge of coordination with DMC.",
+      "urgentlyHiring": "Urgently hiring",
+      "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
+      "shelfItem": ""
+    },
+    {
       "id": 6,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dx9AsCPRxKegP1EJv9pO8fg4cooVSbDg-ngS67XrUAz_5Qf6I-YH1yxUEh42ZIZ1GVL36UQilT6jaqaNQcQyTUX9baGyrnm7_IAkIgR7OUZKdT1nnxy3UeVDnlZnSHiU0_TmZqAxpMFf06y2E1beB8Omr16hjaSQin9_NzQ9HOfvDB4bnOC086wXmK9SI-zOQQY7qOG1CRhSA6pWqHVOzNXPqFXCwm4bvy5qmSQR_F_rDZJ3ujCOmtOf-CyzuNTIJQyIh0QSWy3wWwlvTjvz-FGAttNywiS0wtkIz0c9_d0Ea1ncFjJ9CklzOboByura3neFf7hSEIUteBvAmJAt4jq6a-o7_uTMTUCu8uepPO9vvuKbUUQtQ32wi6qQTCjAFyNqffSPwkcfmvd8QJJbnCEUYWgJ_nUXUnRezqKOb5thza3WX5zM_svj5tcNmL4twmmE9gvAF_AVnjrIwdStHukNHFM4q7NEKOrSsGNlJkhfZF1ipR0gy8Xq0oPwYkbuugFLwI0TK3yw%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Sales Executive",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "BINNING TRANSPORT INC",
-      "companyLocation": "Goa",
+      "companyLocation": "Chennai",
       "attribute_snippet": "₹50,000 - ₹75,000 a month",
       "category_1": "Full-time",
       "category_2": "Night shift",
@@ -386,10 +409,10 @@
     {
       "id": 7,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BehUmdFGgVqLb7nhtU7hzfgAahsXLE1PbMfKflEXjXrhUVPs-BaVD65xP3iqs7s6nPY7t6JOEWuCnHv6Y92M41AeMlQqx5nrKUi1C4cB4s_tbcziSdHAM5w0HWth9LqHXKBWWvO12484amJRMi7FF3AZdgzJVoOUFOod18Yk50fr9mztW3ayYl_VVrO84TAM20TEP9_K8TXkEgJJHPw5iPZ2TqnQH3FxXKybbrvQixLc9OuqYp0RJo6-zhvrgC_HSsgg5TGldYvWEiwjHCb_NPU7yZci3gfaMGBgUkQUmSE9x3sbGGjaDUj5Pmn-QIiX76gF2BAsyDZuliXQzhLAELr50tR19BC24npmsSYCVFzkGPDG8Dy54ug1clvbDM8lUvNO_OXFDeqwlAIsQavQWz1bqJhOQoOd8XOiXL-R6MIiTMDXzpFBBkUaQlrF9CRzvBuXsR7ABMH0hTmVJgsGWQtIkNXJRum2sZyJppVmWGwmpntt1py9m3&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Software Engineer",
+      "JobTitle": "Front_End_Developer",
       "label": "",
       "companyName": "KSYS TECHNOLOGIES",
-      "companyLocation": "Tamil Nadu",
+      "companyLocation": "Chennai",
       "attribute_snippet": "₹20,000 - ₹35,000 a month",
       "category_1": "Fresher",
       "category_2": "Morning shift",
@@ -409,7 +432,7 @@
     {
       "id": 8,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B6zMitndtv6NhjNZ44_lkPMu69BJd2sXlCtapdCytfVpQXNHI3ZpgP8vt5uyfnMho_VHv0elheaL_XiuNdD8NwsSIjL49xWl9FczscN58Ya7gZ_LYxJH_CZRSY82bBofjsMqd1RQ0vHpwsYUjh451xIDHmUKUyHDe6ymLp6Sl6LIjqttC_iYg1a90pEgsqYa8-V3sEI-H1pyKSLAKAFPjU8u75C9UfsegL9GgjTotPFO4TJrJgurClDxHdLPI-obuTPnLDwvqbJ6tg4oMirRes6HqN0uZb180k3V9ryzCi3vmkdud90yAwfmARXjQjPJb8O_xe1k68LOrsHGDCFWRSXS6Wh51BJSbwQHbA72k3xtKHolyeRdU7Og33yKiIJ1U2sxGLfVsnOy_s2fGGaPhDNYCXc0YSLSDZvnxK6X66QmJ3Pxz2oPIvRQNkmJoWXaZP5b9yRZHPX2yEr60nj0JgAQp2AkzZlUNER1Tp2WWZ94cn0c-g9LZ7TX-hi8dzDmD9HeU6iU3yJFo-knA2RrIlrEN75MijAzn_s2Ratl49rQ%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Night Shift Lead Generator",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "TMI Corp.",
       "companyLocation": "Delhi",
@@ -432,7 +455,7 @@
     {
       "id": 9,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BkyT9n2FRoxA3h8tDrmzFSnPZ4sJlm1Zzt_0t9q44cL-ytjUN1SUKREJn7jXB12a6d5GjtOI_84VGz1csEj0MW_d_tgamYsFeoNmIwYS8lIGHUL6c9uhZORKnZd9qKLDla5OhudRrWYIWMMoz1X8haD2ujjPv1lRz8XQGDU8sYe8TI9ka1AUE5b7WBCIxQpAB1QOWdVh90cYNyRnVvODnsDw_NUqpqTg6XAoySYdqNjZyDI4i0dfS3ueu3V1WW-Og_nP12kVpOhHoouxcF5-PVCTVA4hwIlyq9nHkyek735XppI0VvRl7X0_FdL-cI_ODk9JPGsI3h1DmPjErstjpiIxLZKi22gTPWys8eJDd8QlVGqjOicF-RNEzG_iszxkc8yyDDC9ji_DB1MsyjRTTfukCZjMMpV7aesDgD6kLtEm3Uw62kgB60ZKKVPaW09m3I3KUFSxdKbk4vXR3XuQsBrqtYOf9ck9vgx0W1we93iz243OpBAM_4&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Administrative Executive",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "Beryl India",
       "companyLocation": "Noida",
@@ -455,8 +478,7 @@
     {
       "id": 10,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AWvmwVPeR-uEdlcEn7QfjBqjGRZJb02CsFiQo-8Ruu_Wm3wtg126aEzMHjtfh6Edt95MRoNADcV4VdLQCvqrBWndud15acnGTuwqimEdf6VvNGFHzlco13s9BCms1nRkGejc9UHplmYJ2oF_JxrQtcUBT1nwtUH9SD01B8OFrh6TqtEGxxoqYhoj75BCY1HTCbQbdSuZDav5-Mwp6rlCr3U-25fyRsGiHsQnKW5q4Ukqm8aDWS6BatmSjqRWQWGF93RMib606y7FnAqMUw_LzlsQnxpjcVjUGZKxfu2um-AkVbECH3VeLZ1EU1PsRz2d3gqRTuC1zCeAg5Hu3QFZP0cxP_yAVlhOWSzFuwvF_aTViI1dKs0XsyS2w21l8KIGF9YhTcJcs3eJBXsqljEzvmafeQCGfIOfgW8QBFsXfIyZp_IkCq2mmeB6Tx8Q2r1AwjXHk9jEhTVgAkyHTJ73gyi5ybyE4_w6JOJyG2Th1Q-g%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-
-      "JobTitle": "Asst Manager Outbound",
+      "JobTitle": "Back_End_Developer",
       "label": "",
       "companyName": "RENS TOURISM INDIA PVT LTD",
       "companyLocation": "Delhi",
@@ -479,7 +501,7 @@
     {
       "id": 11,
       "JobTitle href": "https://in.indeed.com/rc/clk?jk=2e521516e6c0dad0&from=mobhp_jobfeed&tk=1ge1aeovliem1801",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "LOKACI",
       "companyLocation": "Noida",
@@ -502,7 +524,7 @@
     {
       "id": 12,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B2jRL37JGbiaDgpJSbq3sg130V-je81XE0IMpdrai7DO0GCwE0AOOGE5icn6CpFo9BE8t1c2Q8qdL0UOapradvcujCFrQjcoMdyv2nire7Xn-zQXY6FpOpgwHTvL1T9xgmapnmILdmrjHHy2ZkooXFqW3qQhoI-4FGAQfujO7umlI4zRwqpGn70tMMBCGRJxwJGh9ChSPaf0NGOKAXHNDMOMDeZnStpss249mBeIGFF_Hor1SAYaL4ln1AJYg7C_p15vhnu75W7o9DKT0qQGfeil4QbwY0Xl4HJVbdGovKcsvft9hmmOSEey74mV-a8PqAr8eHhCHvBBt8sWeY13r4Yj1iDqT7ofrZO0_U4y3sWO2JeTTZr0y6Z89tc49q19S1ya_lt51Swi3zZ2I-PwmPizCM4ezLUAa3l_CLWQYArdrZ3gdyVFkKlDxvMo4FsCqu8AZ3BVQoGtrQ2miGigZjApTGDg2DOMYlsa091do-pN41YX40z2JZB1U7HuNmuwordryQn7FIjwEBnRt_BVqD&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "React Developer",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "KMSG Technologies Pvt. Ltd.",
       "companyLocation": "Noida",
@@ -525,9 +547,8 @@
     {
       "id": 13,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ALrZ15rMDdf0VYnIH3w3hJjht4QEvsM6v2I6NKe4Grwb3JRUBSeLjoax0LzdecpvxLSgnCnGCZNcYeTpX2YuvYxATRli6ZDAFuEjzDTrIyPu3yBrCtD1T5frJi9-btNPPWRIDVzOOWbYyo9J24jCUJ8mUkkzRGDYLi63HYC0fv3tQ3BjBVHO2-KomgA61XI7-mc12egVfFByAGVztw6wq2TEm7SzZFZRCHcg_pfVkuYX2mK4bSJkztWWXBfSh7u0VdprzRj7pLqFguMdckWU9G-FJnAKnnL3ocBq0hmm66p34YyTyeSjNjgT9wCN24xzKveYG8doqUathMUBXcg6rGRioDZoDYq09-FqjUyU4op6YDmqh1DmzJiPYP34eUG3xbxwlnMjVe94rUq2AJo5_UXx5H5baI_5VXnOVjfn0Vz3HfoxvLtdTpXAw7q5uCykrg35KfXBpvQgIToFghTEtEoF-yeIuQsVnudU50pr9o4g%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Business Development Manager",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
-
       "companyName": "JSB Healthcare",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹30,000 - ₹40,000 a month",
@@ -549,7 +570,7 @@
     {
       "id": 14,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BOtvYq6Ki4KVV5vWX_G_51dz7Sm-1LQyEMJugz0QCjqL1O3048OOmDjjEgaht5rxlASW8csIdRwVDuhe6nVAbT7uG9SACXR31tjq2yYrbhZYOXUnnb0mLhsvhRvjUorQpAAhfbCP0Gmk7hrVyGn_0jZWKUlUmSBtAIiRnNa1T4DpWOBSLsOYhN_jF2wKE7ol947yxwB1TbKv9dIGXBLeNBV_cBaYCp9k5yIwE5mEYH8jYsMHG-JjQaaflFUzP8IrEsxlvFe8DggcX8C1VqmuJHJrKbOiBhn4coVS3QEpvlNGahzzKSxlAJlSzQAfmh69sU-TE7e3w96SdXM3KIlpInTRO8eJDstpLWGkE6n8PRbb_k6xS4CWirA_kvnn-jnVcGQgfh6VvbK5SNcvp8uaVtrR88q6pK-C9SFXGpkfFi2MmAEFkDKtJWV9NvFnOVqyjxISi_iOoj7pmSxXiVmKNFCRM-7WzqR8k%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "HTML Developer",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "Cliffex Software Consulting Pvt. Ltd.",
       "companyLocation": "Noida",
@@ -572,7 +593,7 @@
     {
       "id": 15,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CrBlig70VoNC_XjpMEKDMw1uOAjPZkou3JHHDRXho9MlnfrT_ECBM_lESVE356KGKxJ2nvGrwAC2dYF-oFwH1QmCzqrIGeDvGI_yxXVRziqDZ_L-Jy6G2KwJ3hbGhmvPH1oFv2dD7zFsjgJ8fKuF-SWgVqCtDINmgVi9wFmAyCSPslJRmNCTCDvhzzND2UFWh5XH0JiMDX-_43mBtrj79BXoVsmDdnSHv7XCoUer60TgwiCHj1vIckEPgQWAAiZ5AoDTQub1x990uToXbV8uKPZhKdGIlRJAqjfZVfIjchJFGO7A1lVCNVJuuxwN-BA5eTDVfBIM5TW_x1tw_sYyuSZzElM0P5xgX-xyjRpJo97-DqK5iSer4-cpxO5xVOpVZfqfzRYZZRIwBf2A7EpA2SON2RU55EO5LjRovSWzfdXrz0cw0TGY_kyvkoJsomUPNHynmSHt2VHagUqO9yTJ0dmWmOvnvsm3B0RNcFoQhWjg%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Operations Manager",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "companyName": "Biztrology Software Pvt. Ltd.",
       "companyLocation": "Delhi",
@@ -594,9 +615,8 @@
     },
     {
       "id": 16,
-
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CvwQJhQ448ZmrzaESvUMs4pFedvTAv2xo461u8qxbBuYp5mP9rB5iwxpxDoTl_x6LcjRg3AxMVQUNj5Pom0Dr0owUbIZEbKdF6bdTsHE-1R5rcY-t4EMlCfmTfbe3HF3mNJjrIQHtIB4kRtyqUbnG3tToQrEBu6fEvdf42o9KSV62iWZkHO7rp2r6wOMlwHOPxglqMEcDDA7fUvP9bDLmb0BTf0ujd2oDCRDnYe1dBlDAd54oRTAE87u6jYR5xRxwx8pCLIy4dNA6IU6x3AduX5J43f9nCEfG5dcA7fOOz3gvHnSUZTnyz0g26fVqtng5LeejOydly9D9Kb_b7BzBHhc280CEs-gCUcbIqeBzytdL_JfVybESVvSNtNDe2oIo0whmGeMvftkOySi4ldo_w2ay_SSoHi8V1NzS78iKb0sic2e8WmGd7IhAvhJ4sdoaNewMcEtDHXCQbk4o_j06CucLf96QdLWTAT7_cLqY8SA%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "MIS Executive",
+      "JobTitle": "Human_Resourcer",
       "label": "new",
       "companyName": "HOME AND WE",
       "companyLocation": "Noida",
@@ -619,7 +639,7 @@
     {
       "id": 17,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DhROXu0Er8gvVgnTlov28gz-cwuf1DUu8qxmfuzfyBlkQWiElU8fsSSWms-AXDxvS0FWqNHtD-oQfpqKSmkv-soB3dcWULmjFx2d7Sjxn6kD1VXvG0FS8blmDlN22LTJncaYVXjZc0Ts6uJLJJoLbtX52FPKzs7kWWr8fZWqC72rdxNTYilAHo4nqp-Vz0pQhnQlHUu02Z1o40tjSCSymDw7xNjNaffn9eg4ouI37uMAMQeD380h3L2mbmG_I4uD6zC-Ip6HAaRMH8k4eG4jCrLug4NRk-0n30DGzl_Pi4oPEOBJm8QF6Qa5qgTK_8-g1R9_v-VNYg8PAApeIMA87PGNmDimT__EGgddk_1gbOB9QJvCtW_CGVWKH3gZociOuo9uX8nFcA5CmEEQzFpDTDySLw_qCXSJH7ZMhsHKCWfq0rgmxzYCn2_fotgL2WRnitIBvBrSrYChhNnItq235rcC0pRJSSPvENYbHPT-gE_MTKyPPyDcWp&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Data Entry",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "MR Engineering Works",
       "companyLocation": "Noida",
@@ -642,7 +662,7 @@
     {
       "id": 18,
       "JobTitle href": "https://in.indeed.com/rc/clk?jk=0f3d450581bbe444&from=mobhp_jobfeed&tk=1ge1aeovliem1801",
-      "JobTitle": "Inside Sales Specialist",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "University Living Accommodation Pvt. Ltd.",
       "companyLocation": "Noida",
@@ -664,12 +684,11 @@
     },
     {
       "id": 19,
-
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B9WNmDcqpQg-2Mln6xIr9be8_eAoPCmP_lFKuzPpRWlfWoUpMGd4SdKA1k8w73UvWMRXgp290-Jc-pRjTLvBYUEP1NvKwqGSHkAqcktFYcEzexdEwPvA_OBr926IOlNiYVIQ1lP1JgsZTy0KH1KtTXssGZxFKtZf0Wula68_aLjsKxSsIWeJeqV4kqESaj0kl7E7Z0rwHw_hYzVcjBjQqcUNHAVKwO3aywzympku_h1EwInf-MhgGenb3kaCcUkLt5ozYBdOu7Fxst_g_ueKl95s4D-qK3mMxadq4q-pizhtNpUYeIqjfhZQPnW0NMSbb1fVOKDtz_JjSi-PkMASaKEUahHpaE0kSeLxi3bwz9Q1CFXIwC4szxdXDmaeszDOude8Vd8ns9NGCBS-Y3fzANzoD9QHUcfui-JN3DKuINlF5_5EFMzRyfwmBvs5cTetFr70qvaVvJk8OYS9ML35tV1Col-nWlj9C_ByZKIqmIpBbO4CBTe0Of1xafK4zsLC6ZDkfRZQYO-A%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Software Engineer",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "SBNA Software Solutions Pvt Ltd",
-      "companyLocation": "Tamil Nadu",
+      "companyLocation": "Chennai",
       "attribute_snippet": "₹14,000 a month",
       "category_1": "Full-time",
       "category_2": "Morning shift",
@@ -689,7 +708,7 @@
     {
       "id": 20,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BQ9kaSQewaM7-R2xK0JMup4_SPbf463z-R66l30utvnEbHtUsHqpQDtWT1DSVT-ll0qixLXiQF70ISbX8o2svcWEX7Z7uNart1bKtr2hHiOuejvhVXf6ooLc59ozvWUHJ1UFWHiJ9UhxrXd3zNPNDuO_bvcnH4oUrz_DSpO0UqPiXLH4NIpkEpWEY3gCkDLvHPiICfkcwJCbTMIT5XWzhGUR-qdvZ4eKX9r9MQDfSedUXX7xgDWaLyIoKqkDCCc4ipPS6fdA3x00D2L_didW0QklL6fZBUXZz0cy_1kl4XpwVnk8dzWRfcmfHMMWhAx2KO9hPiVWMLEMHgmX5Zhh4W88c-7Gj4hforrx-VA4WDpSL2KssM8pksFnj_YxvED75kmJL-MqLkUSZ0HA8UtTDJcNVqhCHPCGc1o7yheO8Hy8VfmBDetSK-psMKRhX4vBQvj2lKxgSVy8UAHafPec64_6-dTmkLY3ICKkt667lnl2xN1-CxylSiRcn6GqV4vivpqoaf3M5PCw%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Android Developer - Walk In",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "BPSPLUS PVT LTD",
       "companyLocation": "Bengaluru",
@@ -712,7 +731,7 @@
     {
       "id": 21,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CaoiNAWC-qXiwsuu2LuJxAllLHm89CpQmtjpXl9cczb_MMzVGmtLWs2-ePTLCCm8dEhsSc8oExexgmZok2BqIqMxFSQb0I7ObvCUEeF6AG5vObZqs_g3C0ylqk6XU77_N5HDB9YKZFMiCDqminz7KczEmzJhGcfB9TfriLXXC-LJp0xBEQouiQjkyr_r63fsw4xf6wgpwDoTCdV9I5Nji_k-Pyh5JbtT9hlqP1y1TL_7vmTGlAogi4zHkY4BAWt9Hs0SgcdVw_uEgZ7GnZlzdfc_w8G0qduV9yyl3MbmOlcSkkmgvhanbxjz2ohZ9VN-KQGOyYhnZk7fJj5U7j7lNZp9XtcEfQ6ECb1YKP7kKjUW_qKdgc7S9Pckog7boY2ECRHvWf4ZxILRrOhgpig8r7sKcC35yCz7ctMax7pWFZsKCkoYH7spkZJioLtvkrJJm_W7jJR7JXNZf47_kXbSVjCAajBl-bjd-KUVSoSNwMtLUro0Zv9ujFTjWxrG_aeiQIohg9a8nsZigzJqoWwXL-fz1uk0KE-l4impUT6yMS03zryALG-cuICMj7-aCwYFWF_ewBA9soRQ%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Hiring Software Developers to work from home in fulltime/ dual role",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "Shreyan IT Solutions pvt ltd",
       "companyLocation": "Hyderabad",
@@ -720,7 +739,6 @@
       "category_1": "Full-time",
       "category_2": "Day shift",
       "ialbl": "Apply securely with Indeed Resume",
-
       "job_snippet": "Role 1 ) having exp on java , sprngboot, microservices with having aws.",
       "date": "Posted 5 days ago",
       "visually_hidden": "Posted",
@@ -736,7 +754,7 @@
     {
       "id": 22,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BK5_DOpjFQghqpgySsz9TkfM1ljRDNdeELM0x5shJn-imB1VsMTO_NI1wz-JHS6fr2ZDzeqci2qhHwpuDH0NADdAQIVSrIopJ5YZnPNJP0CqfR1Qyd-oXfEDcDfXLC7lxzQE34SLZxRtXkxrOwko-phaanIETZ9satrbWu_kDcMJxmYOT2vPBWWZpe2DFkr153EafQGcnNGEo0md0komfVIRMDoOTq3EkuaSGZuaJi6iYihM_VxbQZoFd7mD6nJJu61n1sisUGG5hBdsM9UMsp5NAPGYFTlIEAslRtnOMAqubkLjNQm9y25ZULxrkh354WCs4CHDTkZGN-rJFGCU6gSpnKFFm913XjJPYqw5Qw7mn68-NEqXMK7IiRFvyP-N5QRHVLfP6hrc-VJN1h_ri824wAv87cGbBFa4c1IfhMUuzXZ1Smv0x2q20qfgxiotOsXEqH31XUW65Z4IGfEwmOnJXb_n_TUWH0yDptXyOJ4JDcET3v5Q-hZqWJCv4QPRA%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Travel Consultant- sales (UK Shift)",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "Ecordon solutions pvt Ltd",
       "companyLocation": "Noida",
@@ -759,7 +777,7 @@
     {
       "id": 23,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CRJc2p2bOTEzK5h1o7K83UKEIVkjSfPXX-DJZsx79jGuFhV8DUMqlMebMYh1l_Vs9PQQKYEk8JmDoSWgpiLUB9e9NFKMTPMn1BYKT0q7EUo2WrZ0sJwX4hv4I3UBZFotZhEQMgK78qzn851eOs4N6201wZ5InxoSI1rerYcBeWuJtyMv14NjivumHsGMrgOpp6yglOKtS-WQ_9pgjbqyhhmHIpTdH0qJlEdjPWu-xcRj8VViSDQVuPjBxmVjpN2wXp-Cn1xgzP4EKEtS2RnbMNC-JQ8ZFWa_j2jTHd3bFxHGKhEk5nWOTyFmf5UygxzsUIFv7l3nl8yNFo4MXnyxIjM5cQiC3G0V2yclIFN34FJOZvK0zyv7lKkO7zon9dHQchEaNcDlQzdPnHuniXMeRKYAxjHO1AMccRk_llpOqgmclB_sMFoqM9X4TM8d-usA4AAre4dYg9eDA27qR_Nez53nDB3ZhXwiWRS44vV5Eed4wkR7tFPHIky7OxPOqK3FjZl_bGVCf7wg%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Frontline Campaigner/Fundraiser - NGO/ Business development",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "companyName": "Direct Dialogue Initiatives India Private Limited",
       "companyLocation": "Delhi",
@@ -781,12 +799,11 @@
     },
     {
       "id": 24,
-
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C2mRcI7fK1PNd7rZ5CbsVRu66ab5a9587TyhXfVj3g7V90K3KhN4c3-diPzSm7KTULpuUULul4JV66lqGdsa2ze2e2mYLbr-6oAECnvd_j374RnaVVTgWZQYISx1lcsokSjQbZfgzAX3SJ0JQcYS5mdRUrfntyPXXXGQtjuABJ34an3AOiXz9kIqYnG9dwGLSTPWFC3pp_p9UAwM1CxgMlYMRaFeCXU3nrsh4-ytmLEwnAXJiMARr_sHLggLfGZAQFK1LQX_uZQsV46zYyL3szmS_auRydKnVwAZ7u7qGqfDuFNCk0svNrwdWk1lfbVTXbbRPrgn-V_xg44z1qm4f6DUSdb6XgK6ccyvEXWY79bpcbM1Vv-ppk0yDCSblah227mS1pQSj3yb91GhNgM95q107NmkEDSX7_O79mjOOL2zOqfj5xZouZh_z8-38KWLMWCEiDL5u8HE9ivt5lUWVhej-ICyvdqk0G4cJ2X7RPSGM06BWitcMj&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Jacquard Designer",
+      "JobTitle": "Back_End_Developer",
       "label": "",
       "companyName": "3Fate Technologies Pvt Ltd",
-      "companyLocation": "Kanpur",
+      "companyLocation": "Pune",
       "attribute_snippet": "₹40,000 - ₹45,000 a month",
       "category_1": "Full-time",
       "category_2": "Morning shift",
@@ -806,7 +823,7 @@
     {
       "id": 25,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CfBIlrZJZ3-mYxLIZ37jKUEfWVtfF-XXleJKphaOMcMgQCaqsOvf7a77GlANxOU3kMkmZgC5ACV1tpiHvMqAc16nXWTtGTzY_ShSr0LIn8kEtpn0IAHlw6qs0B7GhCVHj0FVXSCyAfLD7CluJ5JQDCLv3hZL5wBuAhP80ozYS1ytvJtpXIkOIqnXVmcVeIylNN-I8bwdguhzaCmuvlwkjWI_tDGD0Md24IfW8GEsG8rf_kfT_r0u6cuWJMtkydB3nG7D55jps9MmcqwZdGvz7wi4QTfXlvpBCtrmrNnRz-7JQb0Aj_d56mlrNHwY4aQGFnJrqKXg63zpcKUP-N48tBlxi6LhWmRMDocniWBpH_jQmiPWp6MhWKZZTfjw0hmjqvkAH8SghspUAbpRW-LSnBSPdrI6RXnw5sOrvBUrEjlcaUM6Jsqq3YqqClJaJO_Aa5Q3dfYreKg5TfuVHbJFj2r3kaITMbOwBzDI9Nk5OqDNtApek9EhvZHfsp3VSGzf0%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Political Researcher",
+      "JobTitle": "Front_End_Developer",
       "label": "",
       "companyName": "YINZHONG TRADING PRIVATE LIMITED",
       "companyLocation": "Delhi",
@@ -814,7 +831,7 @@
       "category_1": "Part-time",
       "category_2": "Flexible shift",
       "ialbl": "Apply securely with Indeed Resume",
-      "job_snippet": "A good understanding of regional politics of different along with a fair proficiency in their respective languages such as english ,hindi ,Punjabi, Tamil, Malayalam, Telugu, Assamese and/or Bengali is…",
+      "job_snippet": "A good understanding of regional politics of different along with a fair proficiency in their respective languages such as english ,hindi, Tamil, Malayalam, Telugu, Assamese and/or Bengali is…",
       "date": "Active 2 days ago",
       "visually_hidden": "Employer",
       "date_2": "• Based on",
@@ -829,17 +846,16 @@
     {
       "id": 26,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AzbMjn9EvgZpZyYcaxANV2r5COVXu_JgU_1zDxyl8DcdRgPLJ1SHz5BAcgKu-gO5Y6Gm5UAwcyYSKC0qxMNvMnxa9oIt2sPXS1IcXUFUWIlJ8f_DwwTXH2WLT_cJCKl2DG2NavH7Mhl92wZ5m9jAHfCjoBZucW2gWy-Y9N7GcrT8NyfMxQajo8JFc16YqgCbLLJsQ_NH2Qrsirqv4OhJF8peUEDNbJR2GlX-FAokIP8f0pVmMpqe0QSXuLJiKTnuW-0wwLuzlfOKUb4Nuqbzk8y_DENC06GApQzatDd4TlYjqVPkYy8-o0_89FkLaEcG6SV9zeHpZuQ7okjQ51vXzTUL0Bg22sI0zCAuzMuR-Q81mHscrH8NDzSIC2a6Pu7aQrWPyLMkb_nnYgJbP_zpdh76meCNCib9Pwn1ls78YYloKhXsWkY6u65sbdbe9PrMEZBu6GzJtQRSjdyt4ZpN68viwVbCGaDhq68S8-Wvf9pfMSLPiPP1uC&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Software_Engineer",
       "label": "",
       "companyName": "BLACKTIE ECOM PVT LTD",
-      "companyLocation": "Gurgaon",
+      "companyLocation": "Mumbai",
       "attribute_snippet": "₹27,000 - ₹40,000 a month",
       "category_1": "Full-time",
       "category_2": "Day shift",
       "ialbl": "Apply securely with Indeed Resume",
       "job_snippet": "Responsible for achieving profitability and sales growth by generating maximum leads.",
       "date": "Active 2 days ago",
-
       "visually_hidden": "Employer",
       "date_2": "• Based on",
       "date_3": "jobs you explored",
@@ -853,10 +869,10 @@
     {
       "id": 27,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AGPPlWHwVbzrMhQBqVv4Vy7ERfpfTa0DkO5NlDu6HaEWX69Dp4fu4tbqIkalzB6od0XAysbBbYWXrKmDhsbeh5Vztek8dCo6HQkf1PjKHVUGi-i1OuD3iNMX2fcsxC4AXMsb91eco9200Yf40yPuN4sqVNNvWBuTvQBANQOXgqkydf3NKAbqYEqR7ztBm90r6vnKSgWrOYhFXtHyqJeZEUZCuUVdYxF6AsjjpCP1Zv3s7uyS3DOJe38LqUOATKQP_JEvrchCnxuY3Qrl51_k1bfX8zFjZ06DY7lzD5O8NdzV289DRcmQ6Wps0W9vkAcsxU9MK6QWgT6JntF-trspVxbs6SLx8YO1lJ6fRnHR6KzhPu6maAsG9a_gYvulLnFqMKhoOpN4t8ZLFcA0MpFd7HY_zFRGS2bsbPHuIpyJMLApdTBsg7cIqFjvXPwQBMB7RdT_y_17nr9s_qTEALTsKUJPdRFg03VyueYvGG_ARl-Zc1t0S5VJx6&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Software Engineer",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "Newprodata",
-      "companyLocation": "Tamil Nadu",
+      "companyLocation": "Chennai",
       "attribute_snippet": "₹2,87,005 - ₹4,50,783 a year",
       "category_1": "Fresher",
       "category_2": "Monday to Friday",
@@ -868,7 +884,7 @@
       "date_3": "developer",
       "more-items": 2,
       "job_snippet_2": "Also looking for paid interns who are in their final year of college.",
-      "job_snippet_3": "Software Engineer: Experienced in Java, Python, Power BI…",
+      "job_snippet_3": "Software_Engineer: Experienced in Java, Python, Power BI…",
       "urgentlyHiring": "",
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
       "shelfItem": ""
@@ -876,7 +892,7 @@
     {
       "id": 28,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CUS-2lm3hwPFe6T9nc21Xiv9617a9tF1adF8T3cG2fOSPYvVTa2U5KFcZIH4svWD9yJ-hQI0ntEX2hOk-XFfiZu6U2V1lTaO423fQsloSuLsWfGmbdEXTEGUtcSYXOrhdgWeKkbBOX29S-JDjq1GppY8KTpPABL92F7biOJKHJfyt9M1xQKe17EyyMsnnKJ35R3TvsJuxnDQy-s31lo4IDn2v9uZDYquvGnpfywPvMvdFuejcU4nykBk95ji4cDcZ3hunMwd_ZZGralXVX4iOpU08VU-_uE-HjsjIVmM1ZDt7snaycc4GJVI75sWT_quZbFcb_B3-5wIRa4AKs4Nb5Ckzlr8Yy2dDu4HqIEGeq_ggl7oSwdkoPqCeKjgH6v6LzraWZaBdH1rSDg08mA8xx3zxV0D9sSPDPv-0BBtMQOw2Yq1SdXPXpc78OXKxQ8sq-ak-zjo7v6npCH9KYl4OcmZAvvBTmYflz1VqqHBSBS2UT4_ncZx-QzpRS8br5Trq5wNxn61vpiIziWMjc538D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Spanish Travel Executive Freshers Are Welcome",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "",
       "companyName": "yourtourplanners",
       "companyLocation": "Noida",
@@ -884,13 +900,13 @@
       "category_1": "Regular / Permanent",
       "category_2": "Night shift",
       "ialbl": "Apply securely with Indeed Resume",
-      "job_snippet": "_\\* Providing excellent customer service to existing & potential clients, maximizing the opportunity for repeat business._.",
+      "job_snippet": "Providing excellent customer service to existing & potential clients, maximizing the opportunity for repeat business._.",
       "date": "Posted 30+ days ago",
       "visually_hidden": "Posted",
       "date_2": "• From",
       "date_3": "up",
       "more-items": 2,
-      "job_snippet_2": "_\\* Taking payment by Electronic payment gate way._.",
+      "job_snippet_2": "Taking payment by Electronic payment gate way._.",
       "job_snippet_3": "",
       "urgentlyHiring": "Urgently hiring",
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
@@ -898,9 +914,8 @@
     },
     {
       "id": 29,
-
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ArvsFtF2KkZvSSzWJ3FXDVXQ8LbS0BGR3yg-rc4cKj_bac5PCIzqLQkmVJeLiEM0oyyXVxVFp5BSoxH66OrkiEQFu27v7dBWonCUu08NRDYlIA8R-dQkGyIplB2ZK7IXqNfF93fcL4eiNCS3kg3SodYkVLX0x7cL2byUNPCEDsz-RzyTh5UFDkiyRvpMQ9DB-viUXXSllIUC1NIAX4QZktgTEeMsiOg4PmLJSO0-kY6vpI5MsFB5TgYDJC5y5oaxWdmXoYjDTagDMDXuepJaJVdbc7kq5ux0sAChgpxlEzwjx-stTtZuCTCCJzM5KF_DhOiCocyJFLzFvcwkaAfGUV1QhActx8p8QUvklsdK8Evs-W4enoYiKRknjrLt0TLkgeokQxt-T6eM1jogkgpZJYjknJHmGqnfQZH3Xq-vJZpb6x-pbTpwHZZNnhwu9xrlnY84Kkn4xMwv4AORnixgAxm_tIeuWg21IAW0fKvmUvdSA0qSGuxIH6TyWlwpRTdvLsCaRtSNHy-g%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Web Developer Trainer",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "PrepInsta",
       "companyLocation": "Noida",
@@ -923,7 +938,7 @@
     {
       "id": 30,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AfjZGwouuIqMKTq-ChLdQAhUILLDm5yzTY8Gtgg0D383hLKazXSoAseCrTB0KAkFohJh65gere4Kg7c7MbqgM_yxtE-Vr0qwOxsCZqhv9socbnHiUBAkgXoscC4qJYWdEqKnd99FocNoh5z1kNO15Cc0WPrwOiIa4Aqa9uTaYjvekiPaNB5XSpdEVu2nJF_Jxixj2A2Kup_IkQO2i2EroYa9WCt8EtYHCHjsPgzzJSSweZxGVlUwPMrgrhPWl6lW-T-P8GO0le2GxmPtWHFEdsY9qczSNmYF1V0vOx8cEHnTz8hbgspFhISIxiLuqyJIW4rE5eRo41yFe5MW38RVL1sfHg0d1e9y5KCALIuLpV1qyxtMgfiT_5rJJDEV37FD6GH4e6c6HkUOtn_wV6tOPGpZnMmi39Lmbv0E-1U7l7elnjsOOg6RiIYd9s2B_WL1J7wCB-mporaEvNkbeK5tMC8QPqEB_Y0c1E7biny_0IqPZj7vZsjK6OHAkVCsCSOb-eOh__VnGpCw%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Node js developer",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "Accucia Softwares Pvt ltd",
       "companyLocation": "Pune",
@@ -946,7 +961,7 @@
     {
       "id": 31,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DTlD2kWl7QPZX3Dg6OHb6NJ7oJRp-MwkYySHKwCpU0lFcbr06iPzfElvxUxvxqwgWNO84sM7wuliWUQn52gGhOoQDfLQRrmzOzEXDemvX_6kBAokSAcp9okynW3xEXZx4kdjLfU2-sK2fJIo0p_WEHteWdbK2NhfX7Ge8om9gnSgAdlE9d3o6-OqoLpQipWkhMIMz885Srim7ReA_1W6X7OxDyt5L1Hefpd6bBrkwVJ60aced3c9ie1xanZaFq0toWegspk1wnoNM3RmbfiSk_FdGWeaj_Fn3l6WNhvPvWnkG5dlFQU3v_zRACws-0VzoGwZQY165aZin5KgffGjlo--Wu0TbHZAX3cPx2AnthqmEFdmhWaq73PcCrSHyS7URU68CeQkZadFiJedzv6eFfBsBGpawXq4NanEn7BK7440laTm0IIWSb59f05F5SVyEe5KoTCZehau1k6zkmjlGBpVfSfPYT8urm2p3H9DDYpYgdvBGzYlgDqtdfpIR8SP_2auLPauX5BVL0ZApaJosb&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Django Developer",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "StatValu Private Limited",
       "companyLocation": "Noida",
@@ -956,7 +971,6 @@
       "ialbl": "Apply securely with Indeed Resume",
       "job_snippet": "You will work with PhDs, people from the best colleges, people with a stellar track record.",
       "date": "Posted 4 days ago",
-
       "visually_hidden": "Posted",
       "date_2": "• From",
       "date_3": "Work From Home ₹2,30,000",
@@ -970,10 +984,10 @@
     {
       "id": 32,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DL6TmJ8_sAtzJ9Po-hJTVwg7olJgRcJWjcx3FKlCUUvCSl9pkrObQAincbn9fggNpeUI9Ab3gEftEt1GH_2Ml4dQ88jmsdaTCn9Xl3-LtKJbBt-LE-V93zCbVLyDRf8A8ZO6-Xu1CZONprrVMZ0Xd1MvAk6qsosgxAX-uTb6jftm7xYkxfptW2s_oGhX-aSAbk86VZz4M3G6dghQk6SN4-yFu7tbXyI-uewnlxyl4Vxr-Uj8UsmUuuuaneJsNUeMqpkrsfoe_ledUOYf7YjXV6oT6O0yCM2Sb5Uu4fu33jJH5XIAD0gE-N9emuaGeGv5aaS5vCdxa9IciMHkXYhj7roK7RhRyL83M0LUcidVe2I3H93c5vD7NUOYAlB-nImrmGe6zMHgWcnwLCNcuXHWarXLmNE65K9LMwKoNgcpnuqa4ElI_LeSBHqN3Ifkmy5GUfmsERj0TnSs8VKtMWvyrL-FGQ3V9CwYu7_Yx7xsGGZehQaScedHXghmRr9RARjnA1huICtGmv_0sK_aSoQ7omBy1brYVbHJ8v2ZcLcknh3A%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Salesforce UI Developer",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "PreScouter, Inc",
-      "companyLocation": "Remote",
+      "companyLocation": "Mumbai",
       "attribute_snippet": "₹2,50,000 - ₹3,00,000 a month",
       "category_1": "Regular / Permanent",
       "category_2": "Flexible shift",
@@ -993,7 +1007,7 @@
     {
       "id": 33,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AiQRzWPCIj0-3JyWhynRJb41cGW1Lq7tkDndHlb04SkL7VAfA-qmdwfYdqZNYvdR_DYvxYh6JDNKWBNj7lAEhTiv1sMIdwo7axqfAWlu6p9p3ynOH8j6miaELmfXNUMm82sVvDQccnkzKGL5CeoImkyZmJDsgbSGHCf1dfGY41b9S-jXBZgT9nLi1f0sEtErOzh8U0hHMwjXLm4cFapNGLrsrgR5IKI5tTSK13Js-oQ5rvYbwuBVSjf9tyWx0XA1knLGEdoiCKv5t3s4angV04iEdzrt87xcb0-glgoYFsBEQVSEwxyqMyvYq0-agCofEIdTA7fJqldsTuOMO0nk-8JAe2CvumFcbuMPLDOzZju0YRIAdvLdHW-v3_dkX5zOq81CxNysmkbCZr99hdXeL3L44yLjpO8CBeeMrUM6ahdznDjyrfhKORFBXr6UOuIBlUlylTrTKC9cKSSym9RCu30qTQZa_cc0YbPZneDne_TaPGVIQ2clVf&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "E-Commerce Executive",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "PLS Automobile Services Pvt. Ltd.",
       "companyLocation": "Noida",
@@ -1015,9 +1029,8 @@
     },
     {
       "id": 34,
-
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B3-SFTNJmwzpLOqaWebXoZT7GL2YuMnRv6LqNG2PFtFhYYkuX8kyXkywEebUf0ck_pkXyEmUp4ug6o_hNHHj-aKrMShTQhOefmI4EjPmAgmoE8hlEEZSbs9QYuRslFFpFxTeqY_a1cdNPaDmX4qz4TxqZkuWn_vjz5b5CZ7FzmUzMVtCMmwwGsSJ45hvib7_jqmH2B6SDpR5hFcFOO9117rcR-y2itZQBz3H4DQd_Y05AFkVryy0z6iAAWSO9JZVlsS8XKy8ohbmRTIGHp7trGlZeZUGPeKGD2xKpSedLf2fh-pRwa919oLN_agjxbKU6NifB5jRR4u3f7Yee8Oh6_rZe2AN4lLwuiWkhaS8RQ8EfUuChOKDhCxCk-PByosNOxRL7kZCiZLfD6XOREVamG5D8VGAaQnuo0cDfJAg2wJqqg2697gmhIMRPvJZb1I7wd9TzVCpTdtIjUGIen-jdW0Tm4_uQsAXuUdqSkZ21uDThkrcshs1A0wwNdBsODt4535fWOEJCqoLTH9ctEJCo_L7rJtqZ7fmY%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Social Media Assistant",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "WomELLE",
       "companyLocation": "Delhi",
@@ -1040,10 +1053,10 @@
     {
       "id": 35,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Ar1IF24sxrKOAiOFSvG_s8WQdHtHazvSSQXZVQSxq9fuZavsRFFPrI6TOnc6EkE5np4eIPrX0-tFjI0IBDlOHKCy5zft-o5OaDPGQ0m4xbaG929aydRj9Y8JAJBGImn8YmqCfy4z7yGk06Ns13czhunFmBhDA-eGr_A7_butHjcdPSuTBZo05nW3A7NyPqqnevhkGwb3hyJMDQ7_Lz4p4jzSlM4aOV_11KWFJUknQd14xFg7NN7phd-qjJcpXxcBL_ilzDLXsyORkHi1oDaYMMohzSRsj70ZQFBj1YD2j1W1dbWas_lhmN5MKOalep6e1EsjyXpiwBLUu3LVTqsPANZoUH6n9va4t-KY2MONtP2xcrqyRQWxduhrN1X8M-tCPmVAadyUWLDaEXLST_YsnCZt90e_XTqWOl8QdtWYzEqcNu2Ruo_u3NiqaisDcp4SeLcZi2rMH6SfqCbsmbcBAmAiX5nc9XPBndRO6Aus_2IG9-0yPIUpW3&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Content Writer",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "companyName": "Medevento Planners Pvt. Ltd.",
-      "companyLocation": "Lucknow",
+      "companyLocation": "Hyderabad",
       "attribute_snippet": "₹15,000 - ₹25,000 a month",
       "category_1": "Regular / Permanent",
       "category_2": "Day shift",
@@ -1063,16 +1076,15 @@
     {
       "id": 36,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AdBJqMIQFxRmfJ6hoGIhY2tlLJU7uZc5GXjs2RAjF6xTuqjXo4A7N8pylvRd5q4-74H7QuMaxZ-9LkXfwyVQWmYPVDsOqooQ2T6VgZPCtvlbOza6cD_hA8rp--bKjTFOZn06kwW_y29yDBhbwnMDTj40X7k8wjFmV8Ufndh3hE8rS_tmZz9ZwIfpxL3maOKU7D7TvxTHBJ5ODuDTCqyZUP0GTdvp-nuN0JP_rdej1DCOkMrgUYSx38R6RNr0PYb8jsqDkqJnvVMb2NrAtOivadhQjEY8u-ooxmtHQQxO0V63EyIjUpIheyFyexj5Wz4j17jdhCK0vWfBc5CuoSrgI5YHha2sXGnqVAAosvWxRJKOo3nXSNfuyopRd3WDmrnfhThEYfYqxLbC2IqgjmzzexgVIdKk4kt3pp7b295jKCRl6OU8GRGjKhfT8uBDMr_5mVTtmMeya1iM5ZkPOCRG7oAf3Hnryyol2UINSm_ZycQjEY8RoOMEc1sIiPThP7owIV3RU6VwFt6I6bnWHFrHme-pX8AWznXRs%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "International BPO",
+      "JobTitle": "Human_Resourcer",
       "label": "",
       "companyName": "Raabta Media and Technologies PVT LTD",
-      "companyLocation": "Punjab",
+      "companyLocation": "Bengaluru",
       "attribute_snippet": "₹20,000 - ₹80,000 a month",
       "category_1": "Full-time",
       "category_2": "Morning shift",
       "ialbl": "Apply securely with Indeed Resume",
       "job_snippet": "Working time 3:00 AM to 2:00 PM, 6 days per week - Monday to Saturday.",
-
       "date": "Active 2 days ago",
       "visually_hidden": "Employer",
       "date_2": "• From",
@@ -1087,7 +1099,7 @@
     {
       "id": 37,
       "JobTitle href": "https://in.indeed.com/rc/clk?jk=d646d5e3997b68db&from=mobhp_jobfeed&tk=1ge1aeovliem1801",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "sagar job solution",
       "companyLocation": "Noida",
@@ -1110,10 +1122,10 @@
     {
       "id": 38,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Di4jW16wvzIgQyMHTNdkTDSEqpp7ie_XnGnSDHQnpnH0COBXoFvttoIGsVfD1NvXWfwrBXbp60jJ2tS9o1w8TmzXvTTSGiNP6XxYOKcn68v1IFOyFS2Bg8GbOA7CllCqumTUgbuhUhAFwzh-YAzMqxJCwun7VxwmVRT7lp7G-j1U2OvMoZQO_7HfWXs0Io28Hp7n-0CDNzUPht1-VefA1JRVHfgDtUoZn_Q92Gl6dgQt8yA5vk2D3YPdDrqMSk1CZFvApLceJQZePYwibayehXaIUBivVju9WkmhQEw5gBXUexQFyI4WLknhqqy7xtOW_LEEAV0YrAqCohkKwP5pMrt5wlsm50iBhNPH4hz43ByZf_NGleYDN9_wz6RLocTZvc2Gc0JcGsQSmfP6hrq7UdefbdrRJK8f8MAi69eZWsisA7eWVndeiPbapi-rOuWqWGKdwRS2sgG9Jtz2Aam0niTircNttvOoXpMLTuq7FltnIR1LboUo9w&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Marketing Executive",
+      "JobTitle": "Software_Engineer",
       "label": "",
       "companyName": "BSH Tex and Care LLP",
-      "companyLocation": "Agra",
+      "companyLocation": "Chennai",
       "attribute_snippet": "₹14,000 - ₹22,000 a month",
       "category_1": "Full-time",
       "category_2": "Day shift",
@@ -1133,7 +1145,7 @@
     {
       "id": 39,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgxBwi21IQzYGLPm0U5B-wg8_vl4uCulTTBwlsFt29N1O9MFiXGzdXoM95XgsNWtUDev5bemZ4XO68IVShFGgGt8JFGmvnHGPjduhA5K8hNRIbzheCqpYvkUE3dElHGnfO0WL2NwY96Y8RrKl6g-QoqHtZqMmHpNh0YbWICjdLYCA1-AlFfCQdiAcagvhsxA1x1hI9kLO2WQyJvuIiTPK13LQ6VJfn7T-J0MTUXjnGWf15dByIPJNKfUsDUX7FUtNRwqHe615TCM_89p3f0w_3P7d0WGhlwoXXPmq558gEnzTSTdOBZPIk5GeCP0TpBFqClonoHdf6eYjeLJSBN9dbi6--8-kXCcbJ6z7nMHxCP-McG1-FZlKu2Q6vUPoN0wb1-NpPIJd0GXTrNppVGqNgXX4cI55UR6jfnle2VJYA_l25VUmG8sG-pVKVs5pKxBqyCfs512L1vcrPHRJwT3GafSrNi11HHyPfU5XyutPDYxvFO2UIKjYV&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Inbound Sales Executive",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "Ziyyara Edutech Priavte Limited",
       "companyLocation": "Noida",
@@ -1145,7 +1157,6 @@
       "date": "Today",
       "visually_hidden": "Posted",
       "date_2": "• From",
-
       "date_3": "up",
       "more-items": 1,
       "job_snippet_2": "Have excellent communication skills and intuitive to clients needs.",
@@ -1157,7 +1168,7 @@
     {
       "id": 40,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BOmkZeKh_68t_iAA3g7mB3Z9q-_nMS0ALa-1wkIIg5WSVkm5xKGaQrWF5_If8NKuyMTZwJXmWtE9QBgB_ICrhRxdA9Mxj6u7YxwTVtheXS3EiiNLGHMNnUGdwDoPxj5QvY3UXp2WQF-chG-hm_YJY9xdzLRLXi-SKOuVuwS4IistUBejbTDEa1c23NGxpr0tasDY1i2PXqhIAIj0BQkYBfYsKBtABuXZgShIhBNkmAZq28lirm_G-UyLUmnbFj0LvjkNIvQCia1jqnbKb1bfHuMi3_fhgj8uEbh6tST-C5n2VbEZsk2YBrcDmjEHsx3LY4ga-rk_k4IPvD0IyAOkvWYRigJkzEFE-OFnVNTsh6_jIgTa2tSYk-sWa-b-xLBKUsfbvneRFfxKuNksBmzsRimPEYE2-DC7OqCQ3eGlokDlBrMvVwQHMk_DaY09FsIHItUKsOr6QHhXJt_URJwXGPrRc3z0Em16nanjELavBM4D0gprbd371eOPYpnRonph4riepkpby2dy477WozRQTAA5ZdB_QyZDv-vUFs6ad30g%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Google Ads Specialist",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "",
       "companyName": "EverLighten",
       "companyLocation": "Delhi",
@@ -1180,7 +1191,7 @@
     {
       "id": 41,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AWvmwVPeR-uEdlcEn7QfjBqjGRZJb02CsFiQo-8Ruu_VqZ7yMO9CK6mHH1hKIjFKXMmXMx9XHHp6lG4dVRQxKCWZa37Bv1q6fraa_i9ebYLH_6q9JwV-p8my3H7F9kMs-ruMP1Rh7mGcq-XgX7825cxC_THKKpqFOI_EZg4rY2p4Yh_luMIlN62UlVkJi3CZ9O_JSs3MN4qg12pKuNKRa2pGoHqy8UenrU27NuNOIEqofIwVk2bU5bc5k2bR2kvTHSyO1Oh57sJ_UYZH7KCEL1HheCO8ylIx44sHPcRH65zH30Z_vQcHvYsLbwY5Touz4zue5kZlT1S8iSbrn9wn6F9P1lH75YNef_4eLgsQMETcMeOONMTl280kxF5YxeY7_NlYXWmG9N8CEcRleVJ800mXrKwDsKbxDKIDJ7SuFh0gegOsHEGuf85lvT5a6U7RuekQ9oM-Z41v5nwKwui6WWOD0JCVXGJX1UiCWmrYE2jw%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Asst Manager Visa",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "RENS TOURISM INDIA PVT LTD",
       "companyLocation": "Delhi",
@@ -1203,11 +1214,10 @@
     {
       "id": 42,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AHk2GoNj13uSGsx4148UvTUqoxopMLfKch-dTCjB1H6LUynnfC-e6Icc73NBYev7nD2MNL2tf63--qhR8jwshmb3GZGe_SVCnwv4k2P7375MnNg10VyvauPcl3GO5_1ztz1n6cBzAbrl4SAu6ojucAuHaNA8zmRsUgWL0YFsu00oaztenqcjMg07lZPtUrFKZ-H3kefGKhMTEv4wTavQN9Vsf3IWHynzGYaTvW2V2iOI_vgZLcTIJB6ODXVteTlYJSL82nzPDnRjmSxQ2moBg9rV-V0tZeov3zjS2MOT7Ai8j22QE1vk_ISKktHD1QyxhA_gGt_0CGhIkcsV5YTC9lsR8BGoYlMgzvxyHonlDlLMk3jqYHTxRM9GdLd9Btmr9yvWUK88txDbxSo5KcpK8PQu8_JEcps42vG0wex8X4Eh2BsJXpyuqJpbE0SM0G2wJQOm3XCDkH6VV9nBqPFqwNNX1FjBWiww4qgYybdhk_EoeGRrTDHAOhyL7O9hu51DPUwmAFQIsy96EgI3dpKB0E1sfjyDCxFdjXuSsuwIIKFN-EpXHHoZho&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Content Copywriter for travel blog - Remote / Flexi hours",
+      "JobTitle": "Front_End_Developer",
       "label": "",
-
       "companyName": "Trip101",
-      "companyLocation": "Punjab",
+      "companyLocation": "Chennai",
       "attribute_snippet": "₹7,000 - ₹30,000 a month",
       "category_1": "Part-time",
       "category_2": "Flexible shift",
@@ -1219,7 +1229,7 @@
       "date_3": "Work From Home ₹2,30,000",
       "more-items": 2,
       "job_snippet_2": "Curate travel content for a global readership.",
-      "job_snippet_3": "Research\\*\\* relevant facts and details to draft informative, engaging, and inspirational articles.",
+      "job_snippet_3": "Research relevant facts and details to draft informative, engaging, and inspirational articles.",
       "urgentlyHiring": "Urgently hiring",
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
       "shelfItem": ""
@@ -1227,7 +1237,7 @@
     {
       "id": 43,
       "JobTitle href": "https://in.indeed.com/rc/clk?jk=3031484d340d37a8&from=mobhp_jobfeed&tk=1ge1aeovliem1801",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Human_Resourcer",
       "label": "new",
       "companyName": "Qurencia Technologies",
       "companyLocation": "Delhi",
@@ -1250,7 +1260,7 @@
     {
       "id": 44,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BiHyahzcvUzeL8bLkTWL9iC1uTAL32Zn2VyDfAaprlbssp9fnGn76RKX1t_6D4O9cVdgopji71SO3Ye9Nl5gwe9A9pLfRp4VC1sZEG-pGrs9m0XnGnwXVRsFYBjShGh5WzqWKh5lEzizCCx7BX0cUGemu9IUvkmLIVzkefz6GPrkG3TiTU3EIUd_N1EfGU6CvvglI0WAZjp6lSey19yZkfK3Lv8c1NRoqRFKOUvx56B5QC3kXJVOjyOtJr5g3xm4ek6MsLXTDPZ7wMVHXCujvdLEN_nlF55PxZerl_cC4hZu_GWx59iJn8OKlbUyQYNmVpZghpFK3P9Pzp-ex4FTvu024EInD1ml-Qi9MFp6-xWgMLdhS3BYGZd2wjEld8-61zL4l0R51jkI3c2cHEafTUWAwued9lmwPMOAwBalB9NqE7Qu4KFwbnUxvppTGk77lXOmnzi8i4ZJawCX9EbEiYQP-osmfBunIdocg8Tn59uIWV_DeqHXoQ6XcIBDgD5ulQEjcmVURPGg%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "ASP.NET Developer",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "TECHNOOCEAN IT SOLUTIONS PVT LTD",
       "companyLocation": "Delhi",
@@ -1273,10 +1283,9 @@
     {
       "id": 45,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DH0MwydQfgKEJIITphA5WuJ_9Z9UhecruGk4unweBoVE2S8Qa1yFt3rcjUG86W3wkY2CWYkdl3XmtbGf4ZectDrE8gzwZVIbaIRs1qoy08ZOhLV3QWEKnVDsaxsiwLMaW__XYxEdGtw0SOSL0PGdG9EMJW_ClzBBBS2-3Sl6CJSBlas-CS7QTpFFNiS7PgHk-yDl03HjxoCzSr-znpbadFz2IcGrn8j_Bp007ZdefUcKuZpM8McrnyiI1Teq7Rp4El4kjP9JjZU25POf-TcMKYBUim6m8gzmnbl3OxWGMRWd7beb5ZnyCaYaek9bH3m0WD-ly3zH_x1l6h4Uhr92R_FOi25RbC5SoUVWwH04gg4FTiAV3Jpyzx0d2dXHv-njgLNU6BH7UtnfQ3wKkcietmYZanKE8XmO2A4XetkWRkfZwYUo_0DzcWB9ypE11Law5WQgoeQgbFDM7OUW1xcUkyg8-skUN6rjkiQ1hYLQeFKpdZ-Tg_m2X1vaHNSF4713tOomNMhZ9p6XnwcLVnPwwEqg3XFBTgOobYwlmdMVm3-Q%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Content Executive for travel blog (Full-time, home-based)",
+      "JobTitle": "Back_End_Developer",
       "label": "",
       "companyName": "Trip101 Pte Ltd",
-
       "companyLocation": "Delhi",
       "attribute_snippet": "₹25,000 - ₹39,000 a month",
       "category_1": "Full-time",
@@ -1297,7 +1306,7 @@
     {
       "id": 46,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C5i9UEYrhtONbPqqlHZys8RWGFawkEaUESSElnMj5iNTS3xYhKaN_I6gUMQmY4blBbgHHdwQuVwr1yTYtDQoWpDYOGTphMBsgTC9sIWHSOVX2my6Si_l-J8HHKfLvcM3GJa_OBOGvPbMXtzuRWA2rhdy7PJ4rAg9hogARj-oP49ayymCk2iuESiZkVvx4GBEY9CQcsMgplr2M84q9BPZrfw80_VgV_nboSFJ8LEsjW_l8LqCXYnzvR41b2cAWRePUPJ6c584RaVYPjIUn2qrg2cWFaH_od9ImvGUewayKf6gYI8bIq2yD01PMDDYI6PutJYgULQZrR06QwSWy0vDmI9rNtWmTrUe5oeREz41aYmtcd7Fw27uHinq1lnPZgZTTaifHGtSSXvbO_ux2bdDMLjzWzh0RJyyetV7sUAE047w9UnEl8NL2-14kB1Q4Et9zgxeOeftfRvyZSN23R65u9AnuD-coYa80doS4nPgHFuorsLnpWTJ5qQY2IBBr1Gv4YLVTLA5ruCuDoO6kpjYxI4kG2h25wDt0%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Email Marketing",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "",
       "companyName": "Atnosoft Technologies Pvt Ltd",
       "companyLocation": "Noida",
@@ -1320,7 +1329,7 @@
     {
       "id": 47,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DH0MwydQfgKEJIITphA5WuJ_9Z9UhecruGk4unweBoVE2S8Qa1yFt3Ui3neagyWKbhkH5hivGUlwprPGRXEOh73IZITPOho4qJkjKIrrKMN3kLWDHAqfjtWoYnuk-fnLhidGSNkPKsKZc3ScH28_AtWPo4kEsT44i2HWvMv5_OqC0ngWsDnvFCzjZpjUUUEMTMScQ0C51wI4DNp2lONY5lD7C8s8O_3QuFKmhvw6-xDLx7BEqdVOuCpxDFcaAOwbitxykUwhpeMXroTPIWe5T0--HHJq-uKOZIQLA5f6VjSzyjJH_XKwKuu2cq3LfreFspJuTIeFr7FIrcIz3WOxD9Loq4t9-3BYn8IIZZ_7o1OX2QYcIVfUQ2tjb4wyUYdy7ZupKrZIASm4buwUoydV8Obst33ZPAl04FOv2KLBhhMgeSSz51xR0W3GXDOQhdl1QKpehYhxPswif03oJQDHIp1F6rCIsZz3F5FyNxBOh39TRMb_6WBDdxriQ6U-52ZsO-G3mHEd97IWI_hyegXfkT9b1O2wFU_AtX3nro3t2HxQ%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Content Copywriter for travel blog - Remote / Flexi hours",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "Trip101 Pte Ltd",
       "companyLocation": "Noida",
@@ -1335,19 +1344,18 @@
       "date_3": "Work From Home ₹2,30,000",
       "more-items": 1,
       "job_snippet_2": "Curate travel content for a global readership.",
-      "job_snippet_3": "Research\\*\\* relevant facts and details to draft informative, engaging, and inspirational articles.",
+      "job_snippet_3": "Research relevant facts and details to draft informative, engaging, and inspirational articles.",
       "urgentlyHiring": "Urgently hiring",
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
       "shelfItem": ""
     },
     {
       "id": 48,
-
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DbjH3lJteOaWkxFxTi6VRhFOJqMXFGBaqdgDgrS_w2LWsEIHiqUL_Zur7q4Ue9dLwgg9pXukZL022WowF8Oiur3zin67rxh8JF-FTBuZsCVnNZ8br543KkvT1saSNbjfw35Kg8rvi6-gDZXTxIx3UI3B7nBPB_s6Wopeiw_XAMHjPD26mT5Z7Ya5EuisAtAMNw4TqLDiMPtjV2P9wbyFebqbKYOLvRw3GRZvePhChaOjGrPlqfe1W9SHOF30z89ATJ1HpnG6heX_7HjEPLKiueLLGlDQ8fjbU2YQ6wSwcdBCbKcCoqFmPTIWGAixEtG8-v9sQ7sL02u2h43UZLkzovD0wRugaWFv3LDCRgWVl_FYbNEGeX-K8ippkIK0XXPXZHIqsbJkhZmx4jp6p1BUZtsHZbtaA3BerFfbEb4QRjO0r5We6wPJfKYfj3W0TFs_EDpjZ1mWNfQRajI8-kuwfWjGzXvZucMi8CHkwNxvwSsRAgdZMBq7TPZOmR_wG1ycLuEGYkIbKWiA%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Node js developer",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "ThinkDebug",
-      "companyLocation": "Indore",
+      "companyLocation": "Hyderabad",
       "attribute_snippet": "₹11,356 - ₹55,777 a month",
       "category_1": "Full-time",
       "category_2": "Day shift",
@@ -1367,7 +1375,7 @@
     {
       "id": 49,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B1e3oa_Qwq5WcU5Ljn0o6RfpU_NH0zJO1fBLoW0Nbdo0LZs5T9XJvDrpHvVU3sTnIiyjdoBAi_fbqPqKueUYc3DwFrvITOUphwq0phbL5ACCBDnuSVhylJ2SryUqlPuNCGOxOIEe_WTQNVV4p6u0thJpQvbOz1a5b_sluZPp8OBggJb9jx6PXVcsmeAjlOpvGu6EbASyHNSAfbYUqLPnI6-6VNPuLISUb6fNlK58THIpGfmBDuYZWwZmdvETq8_WYP4gY5rcQ3ee3VfxrpsTZbsH-5bQzc_VDykcEMBB8_RxhaBnmhCt4MZLFae0za4xDLUt8qfJTlGnzvnVPvxRcricXyJJe5FlVJS1AwX1P5t5CGx9IIU_v3cd31WYo34iPXXaPtTdAsUNpToufhMQ9rsjyKsDxaiVu6-tHJhg0o-dKl7xd9gW41X4FylD1tIzpmoBJzpp1pXoscx7SrL6AIa5OiVUGK7a3mmsxKe8_zJqJvZLmYA0bXb8CQtxJr3quttDUDAt0HT3LCQ9dniNYgDuYdOZLiZvMRKInLjAeC6Q%3D%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Google Bing PPC Specialist",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "Greentek Energy Systems, LLC",
       "companyLocation": "Hyderabad",
@@ -1390,7 +1398,7 @@
     {
       "id": 50,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AHk2GoNj13uSGsx4148UvTUqoxopMLfKch-dTCjB1H6GQwls4SEadOUWMCiZGYq2yswLTfJypHM5-E3PoL0OwlE7VdIhngG9mBq02iq6SVdhOGuCj_4BrQ3Ri5htL0FI5_1pKT_zFnqlSAdCT7dyEj8XJwkQBVO-_MSkjaXHiQIQkwnAAdxjRvDwgOltf1nVPMHjweOCNwRDeYQ1DF6K3kTuI6UXL_Hv22era-D8whjfW-NjD4Di6OuTlhiYRfHD_4Zki0uaKLujTxz-WXfguI7Fth8CqBCYBHMmJZOU5Miawm1sULWxLCafY4TsHa4ZToT9f9nVjwER1lmRE71VoeEK4IQ5xQHXkoPMZIB87FbstEG0N6RQ-IHmfkc8_rjxkJhaftiTKeMC3ZJ2aIMbZRUNzFDHowSB56pEJ4bXgL9HloCwqTnbzFgSlgahzauT0EOqdH_BAa81-yrlfwe_XMtlsJ5d3gW32inFPCIU2DYH8KVl4uWx76mueZtymtLms0l3L9TXhfk_Al0ge9ue7DJvrnO4_x4FQZfS7aX3sofP1XT7fpd3_d&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Full-time Writer (contractual) for travel blog (home-based)",
+      "JobTitle": "Software_Engineer",
       "label": "",
       "companyName": "Trip101",
       "companyLocation": "Bengaluru",
@@ -1398,7 +1406,6 @@
       "category_1": "Full-time",
       "category_2": "Monday to Friday",
       "ialbl": "",
-
       "job_snippet": "This is a full-time remote role on contract, with fixed working hours.",
       "date": "Hiring ongoing",
       "visually_hidden": "",
@@ -1414,7 +1421,7 @@
     {
       "id": 51,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B2xCegS_4M6GsmoVTRWnEIyx3kurTuPcQia_eCG0VkDcj5LMTCr4xpagYW7rMcgD7W4JqbvRA1-gKDK-oBdvtZASVx6-LHdcxhoPIErfCUPgvX7s8gwt0LmW-J9-r_xJ-OuOpiDtgXl3Rj_4z8idfWZhdkHjj6aMIk34IzzCTrpmzBMiwDPCrnKnbWaQnukcsbs7p46FpmcPUhUKJc6myTDPVvif6rJj3BXGmLnquATLn2A0qWvbSxnCYQpeaumat6KS8anGirjUDiMlVOx-2r6MhiKhjikoI6WyO7ScV30ZC1c4PdB_VD6BCEXS0pGn7e_rYgReg8lQ2iWAN829xirOVFTShD7lIaBWzRhEGsSRP5nBFxsfr7Ea8gcizSu4PKjMezt_Bi5Z4Aa-S1O46FvZrN7sPQ_BaF1zlDtHY3vear6Zoho_3rOiED4limql5Wjftle_n1pPYwzicDeoQMAuE3FhT2Q0leoNdAN7iYPCsbUVzd6TjAIHmI5OD-Q7Q%3D&from=mobhp_jobfeed&tk=1ge1aeovliem1801&jsa=1733&vjs=3",
-      "JobTitle": "Business Development Manager",
+      "JobTitle": "Back_End_Developer",
       "label": "",
       "companyName": "Kathputlee Arts & Films",
       "companyLocation": "Delhi",
@@ -1437,7 +1444,7 @@
     {
       "id": 52,
       "JobTitle href": "https://in.indeed.com/company/Incentive-Global-Solutions-Pvt-Ltd/jobs/Document-Verification-Executive-250c2d874ac6fc3a?fccid=f146a26ed4fb31dc&vjs=3",
-      "JobTitle": "Document Verification Executive",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "Incentive Global Solutions Pvt Ltd",
       "companyLocation": "Delhi",
@@ -1457,7 +1464,7 @@
     {
       "id": 53,
       "JobTitle href": "https://in.indeed.com/company/Phnk-Networks-India-Pvt.-Ltd./jobs/Node-Js-Developer-b41f35ab72c38448?fccid=4428d57329460f2d&vjs=3",
-      "JobTitle": "Node js developer",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "Phnk Networks India Pvt. Ltd.",
       "companyLocation": "Delhi",
@@ -1476,9 +1483,8 @@
     },
     {
       "id": 54,
-
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BdtpSGTT2NBCaXf0z-zBVYiyKtRNVZBhEJVdO2YbxShz7u3iyebtMrlidfFp5d7ebFx9DaFErlxcmlYkSDHVpPDX07xCQlEH-ZEqGmhz8jm7_qe8nXDO3eMgUk5ZZELl4QjJqF1_RkRqy66DEwJDa56VdJDmzmUExbc0woS56nUq8BZAYl4bb607ydCECnBLA9LrVZgRMRVm3lQwCTtifPR_LTUmO5fX6pJ_y1mxur_Zma15XPc3uX9Y8-Q2UHdIK5GpQEbcFzOaY-r_VJdpIeq38McmEclV5SM2nydJm_b2nL4iKLzLRKsC0s3-Jp1BrB037EzP096oNltkAHcyoENYfwVEmQdP-bpZ89PLgMdNkaHvrfF28PlcQDOuRznu9RpmFO-rLDjM7uWrFv24hRwDkaTD9n6sKRdSY6Sx3ChwV0xlglvLHE5IRrZQt3ICXiYkLFJo5J6KHhHs6crmZm&xkcb=SoBA-_M3YBmLXlx9JB0KbzkdCdPP&p=2&fvj=1&vjs=3",
-      "JobTitle": "Domestic tour executive",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "companyName": "View Holiday Trip Pvt Ltd",
       "companyLocation": "Delhi",
@@ -1498,7 +1504,7 @@
     {
       "id": 55,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BTknL_-S-fPsNOsDIsuh5cokosFEzNdh10CC0XtZmGFxCNsrB6oLDcD9jJTFuCwRnGxEUBb25b2WxXlMYTyRS0XzHQrRmZKzdlLIP_pJFNGrn-Hk6Dv-6woKQgBBugs57UzOJD-dGuBxSxy9DtQJhBGfhEej63icSA0SIwLeAMvQlXTWUGdapPtbMeTIASsE3yczCIOOzJhntZEW5oSxqEfcIHdNMkSyIAJXbFS1i7kKPGJ1TS7q8pj_nx6zgkJrSqILta4nUqLmc3byIaurH0op2skVw5Id7OmOktysclXC3GJ6XwTuu2z6KhUUdHoh68GsgHjRAbq6r8Q_kO6xBLPys8WEuEnciD-BuESKM52efnL6uiabsazjQxtnOT_DeOS0YoG0jsEYOF_1KT8mLna4fCUsq25cDBpjv_epVRrKXG-3ggCURYf-i1_8oBru9kFUQhnruJ6C04wLtKb8RxVg37dvYJcFt3jafwNAE1OA==&xkcb=SoDd-_M3YBmLXlx9JB0JbzkdCdPP&p=3&fvj=1&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Front_End_Developer",
       "label": "",
       "companyName": "EPRIS Solutions",
       "companyLocation": "Delhi",
@@ -1518,7 +1524,7 @@
     {
       "id": 56,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AAovVKY6EPCa2b1HmHEZRGwXR2xTb257T-r8kQhG3lvbF46rMcIWmdHnKUEryh0NnIppuuuoOsKSlRRgCxI0-3VtThqkbrHf0PJYzlL4q-BLMR_DX9Zg7XPRSgpGohlAT5aE8Yae1kXhk0HddbU_y1gnh5r5l3XP5mOPNCziEla3t5hOO8vSFvRGpGI-dsGK87jQ-k7ix3ZhrFJrNafF1Do11HdiwItiFhdAOESf3djGOsqR9JC_Us8mUX0Fkv0A4SNB6taC-He4ekITw2aEVmIU2Y-9fdKyk-mGLN91EofbwHwr4DNRlaevva1GhMd0gpco43lUQh1b113iwwHlqeoPbOhz7zKZt7sNtArBYzKuw7fO959g37fe7pWJmamvUFBP4agDOywAbpNLweGfEfJUzbUKclw2-4-gUoeFq2_TfkyRYNrvtKKJz3pX-GmFiFZWDePhyK0s0cF2RWKASvbyQOga56qQiXCvGCsawVQg==&xkcb=SoBp-_M3YBmLXlx9JB0IbzkdCdPP&p=4&fvj=1&vjs=3",
-      "JobTitle": "Quant Analytics Associate Trainee",
+      "JobTitle": "Human_Resourcer",
       "label": "new",
       "companyName": "Scan Holdings Pvt. Limited",
       "companyLocation": "Delhi",
@@ -1537,9 +1543,8 @@
     },
     {
       "id": 57,
-
       "JobTitle href": "https://in.indeed.com/company/SR-Tutors-Bureau/jobs/Teacher-Tutor-51e2ff93d359db0a?fccid=ddc32b6c1c6e2faf&vjs=3",
-      "JobTitle": "Required Teachers/Tutor in Delhi",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "companyName": "SR Tutors Bureau",
       "companyLocation": "Delhi",
@@ -1559,7 +1564,7 @@
     {
       "id": 58,
       "JobTitle href": "https://in.indeed.com/company/YourSkill/jobs/Relationship-Manager-e1fcf6050ba65735?fccid=d3ffc8d9fb4ea83e&vjs=3",
-      "JobTitle": "Relationship Manager",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "YOURSKILL",
       "companyLocation": "Delhi",
@@ -1579,7 +1584,7 @@
     {
       "id": 59,
       "JobTitle href": "https://in.indeed.com/company/REGALO-KITCHENS-PVT-LTD/jobs/Business-Development-Executive-9f8170c9d5f38920?fccid=72d7d80619ae8849&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "regalo kitchens pvt ltd",
       "companyLocation": "Delhi",
@@ -1599,7 +1604,7 @@
     {
       "id": 60,
       "JobTitle href": "https://in.indeed.com/company/Unacademy/jobs/Business-Development-Executive-887edfc28501f0b1?fccid=612a4dfb889c55ef&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "",
       "companyName": "",
       "companyLocation": "Delhi",
@@ -1619,7 +1624,7 @@
     {
       "id": 61,
       "JobTitle href": "https://in.indeed.com/company/Salon-Owners-Welfare-Association/jobs/Tele-Caller-47db0d87d3df3fcb?fccid=f5ab8a6e9991160d&vjs=3",
-      "JobTitle": "Tele caller",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "Salon Owners Welfare Association",
       "companyLocation": "Delhi",
@@ -1638,9 +1643,8 @@
     },
     {
       "id": 62,
-
       "JobTitle href": "https://in.indeed.com/company/Phaico/jobs/Node-Js-Developer-684f0ecf18f63ef8?fccid=975357a94db79287&vjs=3",
-      "JobTitle": "Node js developer",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "Phaico",
       "companyLocation": "Delhi",
@@ -1680,7 +1684,7 @@
     {
       "id": 64,
       "JobTitle href": "https://in.indeed.com/company/FITBUZZE-PRIVATE-LIMITED/jobs/Business-Development-Intern-651eda76e7321714?fccid=a9e5960cf4355fba&vjs=3",
-      "JobTitle": "Business Development Intern",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "FITBUZZE PRIVATE LIMITED",
       "companyLocation": "Delhi",
@@ -1700,7 +1704,7 @@
     {
       "id": 65,
       "JobTitle href": "https://in.indeed.com/company/Incentive-Global-Solutions-Pvt-Ltd/jobs/Bpo-Call-Center-893d8d58074f95de?fccid=f146a26ed4fb31dc&vjs=3",
-      "JobTitle": "bpo call center",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "Incentive Global Solutions Pvt Ltd",
       "companyLocation": "Delhi",
@@ -1720,7 +1724,7 @@
     {
       "id": 66,
       "JobTitle href": "https://in.indeed.com/company/Maco-Infotech-Ltd/jobs/Software-Developer-7d1868cb244371c4?fccid=8af007149d998f4b&vjs=3",
-      "JobTitle": "Software Developer",
+      "JobTitle": "Software_Engineer",
       "label": "",
       "companyName": "Maco Infotech Ltd.",
       "companyLocation": "Delhi",
@@ -1733,7 +1737,6 @@
       "job_snippet": "Experience with c#, asp.net , sql server 2008 and above ,.",
       "job_snippet_2": "Good understanding of MVC or MVVM pattern.",
       "job_snippet_3": "Good communication skill & interpersonal skills, excellent…",
-
       "date": "Posted 8 days ago",
       "visually_hidden": "Posted",
       "shelfItem": "Responsive employer"
@@ -1741,7 +1744,7 @@
     {
       "id": 67,
       "JobTitle href": "https://in.indeed.com/company/Phaico/jobs/Telecaller-a72574664f32d0b6?fccid=975357a94db79287&vjs=3",
-      "JobTitle": "Telecaller",
+      "JobTitle": "Front_End_Developer",
       "companyName": "Phaico",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹10,000 a month",
@@ -1761,7 +1764,7 @@
     {
       "id": 68,
       "JobTitle href": "https://in.indeed.com/company/Innovalance-Learning-Systems/jobs/Subject-Matter-Expert-76018997c034552d?fccid=d9067c8af024e212&vjs=3",
-      "JobTitle": "Subject matter Expert (Economics)",
+      "JobTitle": "Data_Scientist",
       "companyName": "Innovalance Learning Systems",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹1,80,000 - ₹2,40,000 a year",
@@ -1781,7 +1784,7 @@
     {
       "id": 69,
       "JobTitle href": "https://in.indeed.com/company/HARIOM-TRAVELS-PVT-LTD/jobs/Bus-Helper-02a52f44dcd4affb?fccid=18f984b010f78cf3&vjs=3",
-      "JobTitle": "BUS HELPER",
+      "JobTitle": "Data_Analyist",
       "companyName": "HARIOM TRAVELS PVT LTD",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹9,391 - ₹15,000 a month",
@@ -1801,7 +1804,7 @@
     {
       "id": 70,
       "JobTitle href": "https://in.indeed.com/company/Trivium-Education-Services-Pvt.-Ltd/jobs/Mathematic-f7cda36f480b1e28?fccid=e6fc9e6808f95522&vjs=3",
-      "JobTitle": "Mathematics- Freelance Subject Matter Expert (WFH)",
+      "JobTitle": "Full_Stack_Web_Developer",
       "companyName": "",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹220 an hour",
@@ -1821,7 +1824,7 @@
     {
       "id": 71,
       "JobTitle href": "https://in.indeed.com/company/Imaginxp/jobs/Ux-Design-Faculty-503412bb94b0d6d5?fccid=d2c98b9e6bd4df20&vjs=3",
-      "JobTitle": "UX Design Faculty.",
+      "JobTitle": "Data_Analyist",
       "companyName": "Imaginxp",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹4,80,000 - ₹6,50,000 a year",
@@ -1830,7 +1833,6 @@
       "category_2": "Morning shift",
       "more-items 2": 1,
       "ialbl": "Apply securely with Indeed Resume",
-
       "job_snippet": "*For * – ₹4,80,000 to ₹6,50,000 (Based on the merit, background, experience, qualification & additional certifications and their performance in the…",
       "job_snippet_2": "Freshers",
       "date": "Active 2 days ago",
@@ -1842,7 +1844,7 @@
     {
       "id": 72,
       "JobTitle href": "https://in.indeed.com/company/Emerald-Management/jobs/Need-Waiter-3d8e98b082f7f29e?fccid=1efe06dda419207a&vjs=3",
-      "JobTitle": "Need waiters",
+      "JobTitle": "Back_End_Developer",
       "companyName": "Emerald Management",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹9,000 - ₹12,500 a month",
@@ -1862,7 +1864,7 @@
     {
       "id": 73,
       "JobTitle href": "https://in.indeed.com/company/Pacific-1-New-Private-Limited/jobs/Journalist-3e69ef6714cbc494?fccid=dbf6c1993a66cab7&vjs=3",
-      "JobTitle": "Journalist",
+      "JobTitle": "Front_End_Developer",
       "companyName": "Pacific 1 New Private Limited",
       "companyLocation": "Delhi",
       "attribute_snippet": "Regular / Permanent",
@@ -1882,7 +1884,7 @@
     {
       "id": 74,
       "JobTitle href": "https://in.indeed.com/company/SimplePlan-Media/jobs/Business-Development-Executive-21e708479fe2727d?fccid=31968fd5f48354a7&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Software_Engineer",
       "companyName": "Simpleplan Media",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹25,000 - ₹40,000 a month",
@@ -1902,7 +1904,7 @@
     {
       "id": 75,
       "JobTitle href": "https://in.indeed.com/rc/clk?jk=3e8b0fa195783fde&fccid=196b2c6e0cd1ecb2&vjs=3",
-      "JobTitle": "Hiring Fresher - Smart Achiever Program- Delhi NCR",
+      "JobTitle": "Full_Stack_Web_Developer",
       "companyName": "",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹3,00,000 a year",
@@ -1925,7 +1927,6 @@
       "JobTitle": "Business Development Executive",
       "companyName": "meriapp technologies",
       "companyLocation": "Delhi",
-
       "attribute_snippet": "₹7,000 - ₹30,000 a month",
       "category_1": "Part-time",
       "more-items": 2,
@@ -1943,7 +1944,7 @@
     {
       "id": 77,
       "JobTitle href": "https://in.indeed.com/company/Salon-Owners-Welfare-Association/jobs/Business-Development-Maneger-Female-15287d85103314ff?fccid=f5ab8a6e9991160d&vjs=3",
-      "JobTitle": "Business Development maneger female",
+      "JobTitle": "Data_Analyist",
       "companyName": "Salon Owners Welfare Association",
       "companyLocation": "Delhi",
       "attribute_snippet": "From ₹10,000 a month",
@@ -1963,7 +1964,7 @@
     {
       "id": 78,
       "JobTitle href": "https://in.indeed.com/company/Enthuons/jobs/Fresher-HTML-Developer-abbb371973596e65?fccid=308e529e122a2c5b&vjs=3",
-      "JobTitle": "Fresher HTML Developer",
+      "JobTitle": "Human_Resourcer",
       "companyName": "Enthuons Technologies Pvt Ltd",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹10,277 - ₹12,000 a month",
@@ -1983,7 +1984,7 @@
     {
       "id": 79,
       "JobTitle href": "https://in.indeed.com/company/AVS-Holidays-PVT.-LTD./jobs/Tour-Executive-cb17088cb63bb632?fccid=182cf3ce93cd0d44&vjs=3",
-      "JobTitle": "Tour Executive",
+      "JobTitle": "Front_End_Developer",
       "companyName": "AVS Holidays PVT. LTD.",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹15,000 - ₹30,000 a month",
@@ -2003,7 +2004,7 @@
     {
       "id": 80,
       "JobTitle href": "https://in.indeed.com/company/Mentorsity/jobs/Business-Development-Executive-7ce809a2e83c5931?fccid=002a2cc05ece2bc6&vjs=3",
-      "JobTitle": "Business Development Executive (Fresher)",
+      "JobTitle": "Back_End_Developer",
       "companyName": "Mentorsity",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹3,00,000 - ₹6,00,000 a year",
@@ -2023,7 +2024,7 @@
     {
       "id": 81,
       "JobTitle href": "https://in.indeed.com/company/Crystal-Clear-Services-Pvt.ltd/jobs/Math-Subject-Matter-Expert-6a09f0f0f2f49ed4?fccid=fc115a0a470ef1a8&vjs=3",
-      "JobTitle": "Maths subject matter expert",
+      "JobTitle": "Software_Engineer",
       "companyName": "Crystal Clear Services Pvt.ltd",
       "companyLocation": "Delhi",
       "attribute_snippet": "₹10,000 - ₹40,000 a month",
@@ -2043,7 +2044,7 @@
     {
       "id": 84,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BdtpSGTT2NBCaXf0z-zBVYiyKtRNVZBhEJVdO2YbxShz7u3iyebtMrlidfFp5d7ebFx9DaFErlxcmlYkSDHVpPDX07xCQlEH-ZEqGmhz8jm7_qe8nXDO3eMgUk5ZZELl4QjJqF1_RkRqy66DEwJDa56VdJDmzmUExbc0woS56nUq8BZAYl4bb6H7xjD9iriqTwuSyXcsNoYPrBz_15FE448_TzV0aWCF_HBtTHaVmPHLM3StKhhTIL3LrnabiKepMLT2PBJSa_SGRy8kug0fDJjc4ygQ-R1nm6GLn-sO7apOwjWWwA7C07n8lEV1pWvlJAxEV2_rWl5aet5dHWdjbACTutv-MZK79DST5uaHE39bVqpaF6rumj5FmnZcRNKjTbcXHmua4H5bTfXo35PtVzhlQaawTx_JPltpaBQlMQYq23kwPWw7ZVE6qfuGcpo82lvhktuMGAwbcZ3dxYjG6wIRSv0xm4RIBZbopmlLGvLSPtwhaP47Jv&xkcb=SoB5-_M3YBmhb6SFsR0LbzkdCdPP&p=0&fvj=1&vjs=3",
-      "JobTitle": "Domestic tour executive",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "View Holiday Trip Pvt Ltd",
       "companyLocation": "Delhi",
@@ -2063,7 +2064,7 @@
     {
       "id": 85,
       "JobTitle href": "https://in.indeed.com/company/Phnk-Networks-India-Pvt.-Ltd./jobs/Node-Js-Developer-b41f35ab72c38448?fccid=4428d57329460f2d&vjs=3",
-      "JobTitle": "Node js developer",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "Phnk Networks India Pvt. Ltd.",
       "companyLocation": "Delhi",
@@ -2083,7 +2084,7 @@
     {
       "id": 86,
       "JobTitle href": "https://in.indeed.com/company/Incentive-Global-Solutions-Pvt-Ltd/jobs/Document-Verification-Executive-250c2d874ac6fc3a?fccid=f146a26ed4fb31dc&vjs=3",
-      "JobTitle": "Document Verification Executive",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "Incentive Global Solutions Pvt Ltd",
       "companyLocation": "Delhi",
@@ -2102,9 +2103,8 @@
     },
     {
       "id": 87,
-
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BTknL_-S-fPsNOsDIsuh5cokosFEzNdh10CC0XtZmGFxCNsrB6oLDcD9jJTFuCwRnGxEUBb25b2WxXlMYTyRS0XzHQrRmZKzdlLIP_pJFNGrn-Hk6Dv-6woKQgBBugs57UzOJD-dGuBxSxy9DtQJhBGfhEej63icSA0SIwLeAMvQlXTWUGdapPRjOXq1BcucUhCxOCnm9H73i6n2dnJ1WTRCvfiTAv2kuojfV7j5kBsR70AaDe-3kZeb_7JO9F31510qTUxDuQHaeJSAHk5KT8EzSbwOtOjjPhn8gYpG_TAjvGdUhERZW8oaIa8YPhGNeuJs9nuTc9dAXrwVEnpnBITE9ac0J6GoW-T7Xw1BnclodySLVEEYU88jok9b60WwEdK_e-EJKiCaMWy-XsniNXieJdJUu17pvhfT_rS_EkVKQ3DLDgMOERPJ8kGgCbBIH5Yz1nRQuy1ihNq_nWpIEH1H5Cll5MZsMayFPABIhNNVrGBa6xFK3bkSksHu_uHiNQVYrwGc9kHg==&xkcb=SoDe-_M3YBmhb6SFsR0ObzkdCdPP&p=3&fvj=1&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Data_Analyist",
       "label": "",
       "companyName": "EPRIS Solutions",
       "companyLocation": "Delhi",
@@ -2124,7 +2124,7 @@
     {
       "id": 88,
       "JobTitle href": "https://in.indeed.com/company/Trivium-Education-Services-Pvt.-Ltd/jobs/Mathematic-f7cda36f480b1e28?fccid=e6fc9e6808f95522&vjs=3",
-      "JobTitle": "Mathematics- Freelance Subject Matter Expert (WFH)",
+      "JobTitle": "Human_Resourcer",
       "label": "new",
       "companyName": "",
       "companyLocation": "Delhi",
@@ -2144,7 +2144,7 @@
     {
       "id": 89,
       "JobTitle href": "https://in.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AAovVKY6EPCa2b1HmHEZRGwXR2xTb257T-r8kQhG3lvbF46rMcIWmdHnKUEryh0NnIppuuuoOsKSlRRgCxI0-3VtThqkbrHf0PJYzlL4q-BLMR_DX9Zg7XPRSgpGohlAT5aE8Yae1kXhk0HddbU_y1gnh5r5l3XP5mOPNCziEla3t5hOO8vSFvJ9z5CjdybEA1eoB220sYRQGyNFaFdWUzRaAPg_ESzS0_H9MnTRad3wqCkgp2BfVWhBjakIAaIBbJHsGZ-LwYs9uS99VsCwRBGRYY08aUbOPtYGc-hocGna9FzDSXMKW0UcSbYUwjg_hoIG4t0zqwFvcsHNd0Ik8hv3Wue4kInI4Lb8frvgs46MFyziuLfI3sRV0DcmcrCv-hq9dm_Ia3f7nF3iLHezEkE0briLO-kW2I5IbUtH-UzxpeOdEVNWu97GJ2w4QZ88p8dvY1AUlGu0EKfiqk-tYjXuhUpSSTvaTdZuXrW0Q5Tufl_7l0vew4Pek5GDiOjtu8vQLnY1iC5A==&xkcb=SoCb-_M3YBmhb6yFsR0ObzkdCdPP&p=5&fvj=1&vjs=3",
-      "JobTitle": "Quant Analytics Associate Trainee",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "Scan Holdings Pvt. Limited",
       "companyLocation": "Delhi",
@@ -2164,7 +2164,7 @@
     {
       "id": 80,
       "JobTitle href": "https://in.indeed.com/company/Unacademy/jobs/Business-Development-Executive-887edfc28501f0b1?fccid=612a4dfb889c55ef&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Software_Engineer",
       "label": "",
       "companyName": "",
       "companyLocation": "Delhi",
@@ -2174,7 +2174,6 @@
       "category_2": "Fixed shift",
       "shelfItem": "Responsive employer",
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
-
       "job_snippet": "Fixing Up appointment with customer.",
       "job_snippet_2": "Showing up the demo of product.",
       "job_snippet_3": "Counselling and Selling the product.",
@@ -2185,7 +2184,7 @@
     {
       "id": 91,
       "JobTitle href": "https://in.indeed.com/company/Innovalance-Learning-Systems/jobs/Subject-Matter-Expert-76018997c034552d?fccid=d9067c8af024e212&vjs=3",
-      "JobTitle": "Subject matter Expert (Economics)",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "Innovalance Learning Systems",
       "companyLocation": "Delhi",
@@ -2205,7 +2204,7 @@
     {
       "id": 92,
       "JobTitle href": "https://in.indeed.com/company/Incentive-Global-Solutions-Pvt-Ltd/jobs/Bpo-Call-Center-893d8d58074f95de?fccid=f146a26ed4fb31dc&vjs=3",
-      "JobTitle": "bpo call center",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "Incentive Global Solutions Pvt Ltd",
       "companyLocation": "Delhi",
@@ -2225,7 +2224,7 @@
     {
       "id": 93,
       "JobTitle href": "https://in.indeed.com/company/SR-Tutors-Bureau/jobs/Teacher-Tutor-51e2ff93d359db0a?fccid=ddc32b6c1c6e2faf&vjs=3",
-      "JobTitle": "Required Teachers/Tutor in Delhi",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "SR Tutors Bureau",
       "companyLocation": "Delhi",
@@ -2245,7 +2244,7 @@
     {
       "id": 95,
       "JobTitle href": "https://in.indeed.com/company/HARIOM-TRAVELS-PVT-LTD/jobs/Bus-Helper-02a52f44dcd4affb?fccid=18f984b010f78cf3&vjs=3",
-      "JobTitle": "BUS HELPER",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "companyName": "HARIOM TRAVELS PVT LTD",
       "companyLocation": "Delhi",
@@ -2273,7 +2272,6 @@
       "category_1": "Fresher",
       "more-items": 1,
       "category_2": "Day shift",
-
       "shelfItem": "",
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
       "job_snippet": "Must be fluent in English.",
@@ -2286,7 +2284,7 @@
     {
       "id": 96,
       "JobTitle href": "https://in.indeed.com/company/YourSkill/jobs/Relationship-Manager-e1fcf6050ba65735?fccid=d3ffc8d9fb4ea83e&vjs=3",
-      "JobTitle": "Relationship Manager",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "YOURSKILL",
       "companyLocation": "Delhi",
@@ -2306,7 +2304,7 @@
     {
       "id": 97,
       "JobTitle href": "https://in.indeed.com/company/sagar-job-solution/jobs/Business-Development-Executive-f70daf805d15236d?fccid=7103bd9c4dc2c096&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "sagar job solution",
       "companyLocation": "Delhi",
@@ -2326,7 +2324,7 @@
     {
       "id": 98,
       "JobTitle href": "https://in.indeed.com/company/Nilo-P-Consultant-Services/jobs/Verification-Center-Executive-Fresher-793b673b4256ae1e?fccid=f1923fefb91c7925&vjs=3",
-      "JobTitle": "Verification center executive fresher apply",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "Nilo P Consultant Services",
       "companyLocation": "Delhi",
@@ -2346,7 +2344,7 @@
     {
       "id": 99,
       "JobTitle href": "https://in.indeed.com/company/Index-InfoTech-India-Pvt-Ltd/jobs/Bpo-Non-Voice-79386fa881698c51?fccid=98dca36b49f80d52&vjs=3",
-      "JobTitle": "bpo non voice",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "Index InfoTech India Pvt Ltd",
       "companyLocation": "Delhi",
@@ -2365,11 +2363,10 @@
     },
     {
       "JobTitle href": "https://in.indeed.com/company/Incentive-Global-Solutions-Pvt-Ltd/jobs/Bpo-Call-Center-893d8d58074f95de?fccid=f146a26ed4fb31dc&vjs=3",
-      "JobTitle": "bpo call center",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "Incentive Global Solutions Pvt Ltd",
       "companyLocation": "Delhi",
-
       "attribute_snippet": "₹12,666 - ₹25,766 a month",
       "category_1": "Part-time",
       "more-items": 2,
@@ -2386,7 +2383,7 @@
     {
       "id": 100,
       "JobTitle href": "https://in.indeed.com/rc/clk?jk=13e70625c5ab7dbf&fccid=0ef5b8fe65cd7eae&vjs=3",
-      "JobTitle": "Urgent requirement of freshers with MS-excel knowledge",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "",
       "companyLocation": "Delhi",
@@ -2406,7 +2403,7 @@
     {
       "id": 101,
       "JobTitle href": "https://in.indeed.com/company/Nilo-P-Consultant-Services/jobs/Bpo-Call-Center-Fresher-49cadba844decb78?fccid=f1923fefb91c7925&vjs=3",
-      "JobTitle": "Bpo Call Center Fresher Apply Now",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "Nilo P Consultant Services",
       "companyLocation": "Delhi",
@@ -2426,7 +2423,7 @@
     {
       "id": 102,
       "JobTitle href": "https://in.indeed.com/company/ashoma-pvt-ltd./jobs/Customer-Relationship-Manager-f79994a3e217cd73?fccid=f29426ab029810d3&vjs=3",
-      "JobTitle": "Customer Relationship Manager",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "ashoma pvt ltd.",
       "companyLocation": "Delhi",
@@ -2446,7 +2443,7 @@
     {
       "id": 103,
       "JobTitle href": "https://in.indeed.com/company/Pragya-ayurcare-hosptal/jobs/Bpo-5353839943fd1993?fccid=e603dfda7f6ce713&vjs=3",
-      "JobTitle": "Bpo ( male)",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "",
       "companyName": "Atharva bpo",
       "companyLocation": "Delhi",
@@ -2466,9 +2463,8 @@
     {
       "id": 104,
       "JobTitle href": "https://in.indeed.com/rc/clk?jk=18076440b1a311ec&fccid=b652033fdeeedd22&vjs=3",
-      "JobTitle": "Patient Care Executive",
+      "JobTitle": "Data_Scientist",
       "label": "",
-
       "companyName": "RG Stone Urology Research Institute",
       "companyLocation": "Delhi",
       "attribute_snippet": "Fresher",
@@ -2487,7 +2483,7 @@
     {
       "id": 105,
       "JobTitle href": "https://in.indeed.com/company/Nilo-P-Consultant-Services/jobs/Call-Center-Executive-Fresher-8f8b6f084da82251?fccid=f1923fefb91c7925&vjs=3",
-      "JobTitle": "Call center executive fresher",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "Nilo P Consultant Services",
       "companyLocation": "Delhi",
@@ -2507,7 +2503,7 @@
     {
       "id": 106,
       "JobTitle href": "https://in.indeed.com/company/Fresh-Cartons/jobs/Customer-Care-Executive-708b5af43222d5f1?fccid=8dfe707c6905f899&vjs=3",
-      "JobTitle": "Customer Care Executive",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "Fresh Cartons",
       "companyLocation": "Delhi",
@@ -2527,7 +2523,7 @@
     {
       "id": 107,
       "JobTitle href": "https://in.indeed.com/company/TRIBIZ-INDIA/jobs/Australian-Bpo-a9673f8c7e079260?fccid=b5636ff21e6903ce&vjs=3",
-      "JobTitle": "Australian BPO",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "companyName": "TRIBIZ INDIA",
       "companyLocation": "Delhi",
@@ -2547,7 +2543,7 @@
     {
       "id": 108,
       "JobTitle href": "https://in.indeed.com/company/Travelsees/jobs/International-Backend-Process-e4f29f6e77c75226?fccid=b53079f4e68e3ac3&vjs=3",
-      "JobTitle": "International Backend Process",
+      "JobTitle": "Human_Resourcer",
       "label": "new",
       "companyName": "Travelsees",
       "companyLocation": "Delhi",
@@ -2566,9 +2562,8 @@
     },
     {
       "id": 109,
-
       "JobTitle href": "https://in.indeed.com/company/Tribiz-India/jobs/Voice-Process-Australian-Shift-271c6fb999e0192d?fccid=563eb5f29f7528b7&vjs=3",
-      "JobTitle": "Voice Process || Australian Shift",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "Tribiz India",
       "companyLocation": "Delhi",
@@ -2588,7 +2583,7 @@
     {
       "id": 110,
       "JobTitle href": "https://in.indeed.com/rc/clk?jk=0676941540196a33&fccid=72afa5fb0858a15a&vjs=3",
-      "JobTitle": "Customer Care Executive | Hindi | Delhi",
+      "JobTitle": "Software_Engineer",
       "label": "",
       "companyName": "Business Employment",
       "companyLocation": "Delhi",
@@ -2608,7 +2603,7 @@
     {
       "id": 111,
       "JobTitle href": "https://in.indeed.com/company/Exotic-India-Art-Pvt.-Ltd./jobs/Cce-8fc64e50ba15819a?fccid=db833a18536004a4&vjs=3",
-      "JobTitle": "CCE (Customer Care Executive)",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "Exotic India Art Pvt. Ltd.",
       "companyLocation": "Delhi",
@@ -2628,7 +2623,7 @@
     {
       "id": 112,
       "JobTitle href": "https://in.indeed.com/company/Tribiz-India/jobs/Morning-Shift-Executive-f7e5619620de5423?fccid=563eb5f29f7528b7&vjs=3",
-      "JobTitle": "Morning Shift Executive",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "",
       "companyName": "Tribiz India",
       "companyLocation": "Delhi",
@@ -2648,7 +2643,7 @@
     {
       "id": 113,
       "JobTitle href": "https://in.indeed.com/company/Trivium-Education-Services-Pvt.-Ltd/jobs/Mathematic-f7cda36f480b1e28?fccid=e6fc9e6808f95522&vjs=3",
-      "JobTitle": "Mathematics- Freelance Subject Matter Expert (WFH)",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "turnstileLink": "Trivium Education Services",
       "turnstileLink href": "https://in.indeed.com/cmp/Trivium-Education-Services-Pvt.-Ltd",
@@ -2661,7 +2656,6 @@
       "category_2": "Flexible shift",
       "more-items 2": 5,
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
-
       "job_snippet": "Minimum 3 hrs is required.",
       "job_snippet_2": "Earning potential will be as good as per your speed of providing high-quality answers.",
       "job_snippet_3": "Subjective Round will be taken by QA.",
@@ -2675,7 +2669,7 @@
     {
       "id": 114,
       "JobTitle href": "https://in.indeed.com/company/SR-Tutors-Bureau/jobs/Teacher-Tutor-51e2ff93d359db0a?fccid=ddc32b6c1c6e2faf&vjs=3",
-      "JobTitle": "Required Teachers/Tutor in Delhi",
+      "JobTitle": "Human_Resourcer",
       "label": "new",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -2701,7 +2695,7 @@
     {
       "id": 115,
       "JobTitle href": "https://in.indeed.com/company/Unacademy/jobs/Business-Development-Executive-887edfc28501f0b1?fccid=612a4dfb889c55ef&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Data_Analyist",
       "label": "",
       "turnstileLink": "Unacademy",
       "turnstileLink href": "https://in.indeed.com/cmp/Unacademy",
@@ -2727,7 +2721,7 @@
     {
       "id": 116,
       "JobTitle href": "https://in.indeed.com/company/REGALO-KITCHENS-PVT-LTD/jobs/Business-Development-Executive-9f8170c9d5f38920?fccid=72d7d80619ae8849&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -2753,9 +2747,8 @@
     {
       "id": 117,
       "JobTitle href": "https://in.indeed.com/company/sagar-job-solution/jobs/Business-Development-Executive-f70daf805d15236d?fccid=7103bd9c4dc2c096&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
-
       "turnstileLink": "",
       "turnstileLink href": "",
       "ratingLink href": "",
@@ -2780,7 +2773,7 @@
     {
       "id": 118,
       "JobTitle href": "https://in.indeed.com/company/Mentorsity/jobs/Sales-Executive-519e111934a78052?fccid=002a2cc05ece2bc6&vjs=3",
-      "JobTitle": "Sales Executive (fresher)",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -2806,7 +2799,7 @@
     {
       "id": 119,
       "JobTitle href": "https://in.indeed.com/company/SimplePlan-Media/jobs/Business-Development-Executive-21e708479fe2727d?fccid=31968fd5f48354a7&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -2832,7 +2825,7 @@
     {
       "id": 120,
       "JobTitle href": "https://in.indeed.com/company/Qurencia-Technologies/jobs/Business-Development-Executive-7d8dba251fa01ddf?fccid=5a05c1630bfe9a57&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -2858,10 +2851,9 @@
     {
       "id": 121,
       "JobTitle href": "https://in.indeed.com/company/Alinz-Portable-Petrol-Pump-Pvt-Ltd/jobs/Technical-Support-Engineer-b7d0276ff5aa45f1?fccid=4ccb44e9360f21e4&vjs=3",
-      "JobTitle": "Technical Support Engineer",
+      "JobTitle": "Front_End_Developer",
       "label": "",
       "turnstileLink": "",
-
       "turnstileLink href": "",
       "ratingLink href": "",
       "ratingNumber": null,
@@ -2885,7 +2877,7 @@
     {
       "id": 122,
       "JobTitle href": "https://in.indeed.com/company/Mentorsity/jobs/Business-Development-Executive-7ce809a2e83c5931?fccid=002a2cc05ece2bc6&vjs=3",
-      "JobTitle": "Business Development Executive (Fresher)",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -2911,7 +2903,7 @@
     {
       "id": 123,
       "JobTitle href": "https://in.indeed.com/company/meriapp-technologies/jobs/Vendor-Acquisition-Manager-9824d812939fe23f?fccid=4fcfec049206f6a7&vjs=3",
-      "JobTitle": "Vendor Acquisition Manager",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -2937,7 +2929,7 @@
     {
       "id": 124,
       "JobTitle href": "https://in.indeed.com/company/WELLNESS-SPA/jobs/Spa-Therapist-5e598bb4fddc39b8?fccid=2bc547aed850cfb6&vjs=3",
-      "JobTitle": "Spa Therapist",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -2962,9 +2954,8 @@
     },
     {
       "id": 125,
-
       "JobTitle href": "https://in.indeed.com/company/Learning-Routes-Pvt-Ltd/jobs/Business-Development-Associate-cb7b80fc9d9bc130?fccid=47cca5016b4ef3c3&vjs=3",
-      "JobTitle": "Business Development Associate",
+      "JobTitle": "Software_Engineer",
       "label": "",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -2990,7 +2981,7 @@
     {
       "id": 126,
       "JobTitle href": "https://in.indeed.com/company/EASY-SOLUTION-INFOSYSTEM-PVT-LTD/jobs/Dot-Net-Developer-8c753b1faac56cdc?fccid=d084b2711d3b2475&vjs=3",
-      "JobTitle": "Looking for DOT NET Developer",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "",
       "turnstileLink": "",
       "turnstileLink href": "",
@@ -3016,7 +3007,7 @@
     {
       "id": 127,
       "JobTitle href": "https://in.indeed.com/company/KiwiTech/jobs/Trainee-Engineer-f8a999c17bced8bf?fccid=0f726c41d9eb0d0b&vjs=3",
-      "JobTitle": "Trainee Engineer",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "turnstileLink": "KiwiTech",
       "turnstileLink href": "https://in.indeed.com/cmp/Kiwitech",
@@ -3042,7 +3033,7 @@
     {
       "id": 128,
       "JobTitle href": "https://in.indeed.com/company/SR-Tutors-Bureau/jobs/Teacher-Tutor-51e2ff93d359db0a?fccid=ddc32b6c1c6e2faf&vjs=3",
-      "JobTitle": "Required Teachers/Tutor in Delhi",
+      "JobTitle": "Human_Resourcer",
       "label": "new",
       "companyName": "SR Tutors Bureau",
       "companyLocation": "Delhi",
@@ -3057,7 +3048,6 @@
       "job_snippet": "Job Types: Full-time, Part-time, Regular / Permanent, Fresher.",
       "job_snippet_2": "Part-time hours: 5 per week.",
       "job_snippet_3": "Delhi: Reliably commute or planning to relocate before…",
-
       "date": "Just posted",
       "visually_hidden": "Posted",
       "turnstileLink": "",
@@ -3069,7 +3059,7 @@
     {
       "id": 129,
       "JobTitle href": "https://in.indeed.com/company/Unacademy/jobs/Business-Development-Executive-887edfc28501f0b1?fccid=612a4dfb889c55ef&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "",
       "companyName": "",
       "companyLocation": "Delhi",
@@ -3095,7 +3085,7 @@
     {
       "id": 130,
       "JobTitle href": "https://in.indeed.com/company/REGALO-KITCHENS-PVT-LTD/jobs/Business-Development-Executive-9f8170c9d5f38920?fccid=72d7d80619ae8849&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "regalo kitchens pvt ltd",
       "companyLocation": "Delhi",
@@ -3121,7 +3111,7 @@
     {
       "id": 131,
       "JobTitle href": "https://in.indeed.com/company/sagar-job-solution/jobs/Business-Development-Executive-f70daf805d15236d?fccid=7103bd9c4dc2c096&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "sagar job solution",
       "companyLocation": "Delhi",
@@ -3147,7 +3137,7 @@
     {
       "id": 132,
       "JobTitle href": "https://in.indeed.com/company/Mentorsity/jobs/Sales-Executive-519e111934a78052?fccid=002a2cc05ece2bc6&vjs=3",
-      "JobTitle": "Sales Executive (fresher)",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "Mentorsity",
       "companyLocation": "Delhi",
@@ -3159,7 +3149,6 @@
       "category_2": "Morning shift",
       "more-items 2": null,
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
-
       "job_snippet": "Share marketing and products literature to channel partners.",
       "job_snippet_2": "Achieve budgeted sales at targeted prices and execute the same through existing distributors in the…",
       "job_snippet_3": "",
@@ -3174,7 +3163,7 @@
     {
       "id": 133,
       "JobTitle href": "https://in.indeed.com/company/SimplePlan-Media/jobs/Business-Development-Executive-21e708479fe2727d?fccid=31968fd5f48354a7&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "companyName": "Simpleplan Media",
       "companyLocation": "Delhi",
@@ -3200,7 +3189,7 @@
     {
       "id": 134,
       "JobTitle href": "https://in.indeed.com/company/Qurencia-Technologies/jobs/Business-Development-Executive-7d8dba251fa01ddf?fccid=5a05c1630bfe9a57&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "Qurencia Technologies",
       "companyLocation": "Delhi",
@@ -3226,7 +3215,7 @@
     {
       "id": 135,
       "JobTitle href": "https://in.indeed.com/company/Alinz-Portable-Petrol-Pump-Pvt-Ltd/jobs/Technical-Support-Engineer-b7d0276ff5aa45f1?fccid=4ccb44e9360f21e4&vjs=3",
-      "JobTitle": "Technical Support Engineer",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "Alinz Portable Petrol Pump Pvt Ltd",
       "companyLocation": "Delhi",
@@ -3252,7 +3241,7 @@
     {
       "id": 136,
       "JobTitle href": "https://in.indeed.com/company/Mentorsity/jobs/Business-Development-Executive-7ce809a2e83c5931?fccid=002a2cc05ece2bc6&vjs=3",
-      "JobTitle": "Business Development Executive (Fresher)",
+      "JobTitle": "Human_Resourcer",
       "label": "new",
       "companyName": "Mentorsity",
       "companyLocation": "Delhi",
@@ -3264,7 +3253,6 @@
       "category_2": "Morning shift",
       "more-items 2": null,
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
-
       "job_snippet": "Prospecting new consumers by phone, email, and in-person...",
       "job_snippet_2": "Clients are being sold items or services.",
       "job_snippet_3": "Taking care of a client's portfolio.",
@@ -3279,7 +3267,7 @@
     {
       "id": 137,
       "JobTitle href": "https://in.indeed.com/company/WELLNESS-SPA/jobs/Spa-Therapist-5e598bb4fddc39b8?fccid=2bc547aed850cfb6&vjs=3",
-      "JobTitle": "Spa Therapist",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "Wellness spa",
       "companyLocation": "Delhi",
@@ -3305,7 +3293,7 @@
     {
       "id": 136,
       "JobTitle href": "https://in.indeed.com/company/Learning-Routes-Pvt-Ltd/jobs/Business-Development-Associate-cb7b80fc9d9bc130?fccid=47cca5016b4ef3c3&vjs=3",
-      "JobTitle": "Business Development Associate",
+      "JobTitle": "Front_End_Developer",
       "label": "",
       "companyName": "Learning Routes Pvt Ltd",
       "companyLocation": "Delhi",
@@ -3331,7 +3319,7 @@
     {
       "id": 139,
       "JobTitle href": "https://in.indeed.com/company/EASY-SOLUTION-INFOSYSTEM-PVT-LTD/jobs/Dot-Net-Developer-8c753b1faac56cdc?fccid=d084b2711d3b2475&vjs=3",
-      "JobTitle": "Looking for DOT NET Developer",
+      "JobTitle": "Software_Engineer",
       "label": "",
       "companyName": "Easy solution infosystem pvt ltd",
       "companyLocation": "Delhi",
@@ -3357,7 +3345,7 @@
     {
       "id": 140,
       "JobTitle href": "https://in.indeed.com/company/KiwiTech/jobs/Trainee-Engineer-f8a999c17bced8bf?fccid=0f726c41d9eb0d0b&vjs=3",
-      "JobTitle": "Trainee Engineer",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "",
       "companyLocation": "Delhi",
@@ -3368,7 +3356,6 @@
       "more-items": 1,
       "category_2": "Morning shift",
       "more-items 2": null,
-
       "hiringMultipleCandidatesCaption": "Hiring multiple candidates",
       "job_snippet": "Good coding skills in any software language.",
       "job_snippet_2": "Good ability to understand, discuss, design, develop, test, document, and troubleshoot an interactive AJAX enabled…",
@@ -3384,7 +3371,7 @@
     {
       "id": 141,
       "JobTitle href": "https://in.indeed.com/company/Kiwi-Technologies-India-Pvt.-Ltd/jobs/Trainee-Engineer-a074722e9ef2ac62?fccid=21d85c6ae1d5e39b&vjs=3",
-      "JobTitle": "Trainee Engineer",
+      "JobTitle": "Data_Scientist",
       "label": "new",
       "companyName": "",
       "companyLocation": "Delhi",
@@ -3410,7 +3397,7 @@
     {
       "id": 142,
       "JobTitle href": "https://in.indeed.com/company/DK-Associates/jobs/Sales-Executive-Cum-Supervisor-a0d8f10dcfa8b099?fccid=1dc5efe799c68b72&vjs=3",
-      "JobTitle": "Sales Executive cum Supervisor",
+      "JobTitle": "Data_Analyist",
       "label": "new",
       "companyName": "DK Associates",
       "companyLocation": "Delhi",
@@ -3436,7 +3423,7 @@
     {
       "id": 143,
       "JobTitle href": "https://in.indeed.com/company/sagar-job-solution/jobs/Business-Development-Executive-f70daf805d15236d?fccid=7103bd9c4dc2c096&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "sagar job solution",
       "companyLocation": "Delhi",
@@ -3461,11 +3448,10 @@
     {
       "id": 144,
       "JobTitle href": "https://in.indeed.com/company/SimplePlan-Media/jobs/Business-Development-Executive-21e708479fe2727d?fccid=31968fd5f48354a7&vjs=3",
-      "JobTitle": "Business Development Executive",
+      "JobTitle": "Full_Stack_Web_Developer",
       "label": "new",
       "companyName": "Simpleplan Media",
       "companyLocation": "Delhi",
-
       "attribute_snippet": "₹25,000 - ₹40,000 a month",
       "category_1": "Fresher",
       "more-items": 1,
@@ -3487,7 +3473,7 @@
     {
       "id": 145,
       "JobTitle href": "https://in.indeed.com/company/Alinz-Portable-Petrol-Pump-Pvt-Ltd/jobs/Technical-Support-Engineer-b7d0276ff5aa45f1?fccid=4ccb44e9360f21e4&vjs=3",
-      "JobTitle": "Technical Support Engineer",
+      "JobTitle": "Front_End_Developer",
       "label": "",
       "companyName": "Alinz Portable Petrol Pump Pvt Ltd",
       "companyLocation": "Delhi",
@@ -3512,7 +3498,7 @@
     {
       "id": 146,
       "JobTitle href": "https://in.indeed.com/company/Mentorsity/jobs/Business-Development-Executive-7ce809a2e83c5931?fccid=002a2cc05ece2bc6&vjs=3",
-      "JobTitle": "Business Development Executive (Fresher)",
+      "JobTitle": "Software_Engineer",
       "label": "new",
       "companyName": "Mentorsity",
       "companyLocation": "Delhi",
@@ -3537,7 +3523,7 @@
     {
       "id": 147,
       "JobTitle href": "https://in.indeed.com/company/Learning-Routes-Pvt-Ltd/jobs/Business-Development-Associate-cb7b80fc9d9bc130?fccid=47cca5016b4ef3c3&vjs=3",
-      "JobTitle": "Business Development Associate",
+      "JobTitle": "Data_Scientist",
       "label": "",
       "companyName": "Learning Routes Pvt Ltd",
       "companyLocation": "Delhi",
@@ -3562,11 +3548,10 @@
     {
       "id": 148,
       "JobTitle href": "https://in.indeed.com/company/EASY-SOLUTION-INFOSYSTEM-PVT-LTD/jobs/Dot-Net-Developer-8c753b1faac56cdc?fccid=d084b2711d3b2475&vjs=3",
-      "JobTitle": "Looking for DOT NET Developer",
+      "JobTitle": "Software_Engineer",
       "label": "",
       "companyName": "Easy solution infosystem pvt ltd",
       "companyLocation": "Delhi",
-
       "attribute_snippet": "₹15,000 - ₹40,000 a month",
       "category_1": "Part-time",
       "more-items": 3,
@@ -3588,7 +3573,7 @@
     {
       "id": 149,
       "JobTitle href": "https://in.indeed.com/company/KiwiTech/jobs/Trainee-Engineer-f8a999c17bced8bf?fccid=0f726c41d9eb0d0b&vjs=3",
-      "JobTitle": "Trainee Engineer",
+      "JobTitle": "Back_End_Developer",
       "label": "new",
       "companyName": "",
       "companyLocation": "Delhi",
@@ -3613,10 +3598,10 @@
     {
       "id": 150,
       "JobTitle href": "https://in.indeed.com/company/Kiwi-Technologies-India-Pvt.-Ltd/jobs/Trainee-Engineer-a074722e9ef2ac62?fccid=21d85c6ae1d5e39b&vjs=3",
-      "JobTitle": "Trainee Engineer",
+      "JobTitle": "Front_End_Developer",
       "label": "new",
       "companyName": "",
-      "companyLocation": "Delhi",
+      "companyLocation": "Bengaluru",
       "attribute_snippet": "Regular / Permanent",
       "category_1": "Morning shift",
       "more-items": 1,
@@ -3635,5 +3620,8 @@
       "ratingLink href": "https://in.indeed.com/cmp/Kiwi-Technologies-India-Pvt.-Ltd/reviews",
       "ratingNumber": 3.8
     }
+  ],
+  "users": [
+    
   ]
 }
