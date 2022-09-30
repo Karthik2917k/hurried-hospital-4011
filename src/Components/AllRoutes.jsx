@@ -5,6 +5,7 @@ import Companies from '../Pages/Companies';
 import SalaryGuide from '../Pages/SalaryGuide';
 import Signin from '../Pages/Signin';
 import PostJob from '../Pages/PostJob';
+import Signup from '../Pages/Signup';
 function AllRoutes() {
   return (
     <Routes>
@@ -13,6 +14,7 @@ function AllRoutes() {
         <Route path="/salaryguide" element = {<SalaryGuide/>}></Route>
         <Route path="/signin" element = {<Signin/>}></Route>
         <Route path="*" element = {<Home/>}></Route>
+        <Route path="/signup" element={<Signup/>}></Route>
         <Route path="/postjob" element = {<PostJob/>}></Route>
     </Routes>
   )

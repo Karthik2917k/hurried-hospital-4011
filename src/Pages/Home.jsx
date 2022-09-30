@@ -1,33 +1,35 @@
-import {useEffect, useState} from "react";
-import axios from "axios";
 import JobsData from "./JobsData";
+import  {useState} from "react";
 import {
   Box,
-  Button,
   Flex,
   FormControl,
   FormLabel,
   Text,
   Select,
-  SimpleGrid,
-  Heading,
+  SimpleGrid
 } from "@chakra-ui/react";
 function Home() {
+  const [location,setLocation] = useState("");
+  const[role,setRole] = useState("");
+  
+
   return (
-    <div style={{width:"80%",margin:"auto"}}>
-      <Box  m="auto">
+    <div >
+      <Box  style={{width:"80%",margin:"auto"}} m="auto">
         <SimpleGrid  columns={{ sm: 1, md: 2, lg: 3 }} spacing={10}>
           <Flex>
             <FormControl>
               <Flex>
                 <FormLabel mt="5px">What</FormLabel>
-                <Select placeholder="Job Role" size="lg">
-                  <option>Front End Developer</option>
-                  <option>Backend End Developer</option>
-                  <option>Full stack developer</option>
-                  <option>Data Scientist</option>
-                  <option>Data Analyst</option>
-                  <option>Human Resourcer</option>
+                <Select placeholder="Job Role" size="lg" onChange={(e)=>setRole(e.target.value)}>
+                  <option value="Front_End_Developer">Front End Developer</option>
+                  <option value="Back_End_Developer">Backend End Developer</option>
+                  <option value="Full_Stack_Web_Developer">Full stack developer</option>
+                  <option value="Data_Scientist">Data Scientist</option>
+                  <option value="Data_Analyist">Data Analyst</option>
+                  <option value="Human_Resourcer">Human Resourcer</option>
+                  <option value="Software_Engineer">Software Engineer</option>
                 </Select>
               </Flex>
             </FormControl>
@@ -35,33 +37,22 @@ function Home() {
           <FormControl>
             <Flex>
               <FormLabel mt="5px">Where</FormLabel>
-              <Select placeholder="Location" size="lg">
-                <option>Hyderabad</option>
-                <option>Mumbai</option>
-                <option>Delhi</option>
-                <option>bangalore</option>
-                <option>Pune</option>
-                <option>Chennai</option>
+              <Select placeholder="Location" size="lg" onChange={(e)=>setLocation(e.target.value)}>
+                <option value="Hyderabad">Hyderabad</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Delhi">Delhi</option>
+                <option value="Bengaluru">Bengaluru</option>
+                <option value="Pune">Pune</option>
+                <option value="Chennai">Chennai</option>
+                <option value="Noida">Noida</option>
               </Select>
             </Flex>
-          </FormControl>
-          <FormControl>
-            <Button
-              bg={"blue.400"}
-              color={"white"}
-              _hover={{
-                bg: "blue.500",
-              }}
-              height="40px"
-            >
-              Search
-            </Button>
           </FormControl>
         </SimpleGrid>
         {/*Post your resume – It only takes a few seconds
 Employers: Post a job – Your next hire is here */}
 
-        <Box mt="30px" >
+        <Box mt="30px" mb="30px" >
         <Text fontSize="20px" fontWeight={600}>
           <Text as={"span"} color={"blue"}>
             Post your resume -
@@ -79,7 +70,10 @@ Employers: Post a job – Your next hire is here */}
         {/*
           Job data
         */}
-        <JobsData/>
+        
+      </Box>
+      <Box  backgroundColor="gray.100">
+        <JobsData role={role} location={location}/>
       </Box>
     </div>
   );
