@@ -9,11 +9,12 @@ import {
   ListItem,
   Text,
   UnorderedList,
+  Skeleton,Stack
 } from "@chakra-ui/react";
 import {} from "react-router-dom";
-function Single(setsingleData, setLoading) {
+function Single(setsingleData, setLoading,ii=1) {
   axios
-    .get("http://localhost:8080/jobs/1")
+    .get(`http://localhost:8080/jobs/${ii}`)
     .then((res) => {
       if (res.data) {
         setsingleData(res.data);
@@ -23,16 +24,40 @@ function Single(setsingleData, setLoading) {
     .catch((err) => console.log(err))
     .finally(console.log("Single DATA Completed"));
 }
-function SingleData() {
+function SingleData(Props) {
+  const {ii} =Props;
+  const change =(data) => {
+    switch(data){
+     case "Front_End_Developer":
+       return "Front End Developer"
+     case "Back_End_Developer":
+       return  "Backend End Developer"
+     case "Full_Stack_Web_Developer":
+       return "Full stack developer"
+     case "Data_Scientist":
+       return "Data Scientist"
+     case "Human_Resourcer":
+       return "Human Resourcer"
+     case "Software_Engineer": 
+       return "Software Engineer"
+     default:
+       return data
+   }
+ }
+ 
   const [single, setsingleData] = useState({});
   const [loading, setLoading] = useState(true);
   const [login, setLogin] = useState(true);
   useEffect(() => {
-    Single(setsingleData, setLoading);
+    Single(setsingleData, setLoading,ii);
     console.log(loading);
   }, []);
   if (loading) {
-    return <Text>...Loading</Text>;
+    return <Stack>
+  <Skeleton  color='black' height='20px' />
+  <Skeleton height='20px' />
+  <Skeleton height='20px' />
+</Stack>
   }
   return (
     <div>
@@ -48,7 +73,7 @@ function SingleData() {
           mb="40px"
         >
           <Text fontWeight="bold" m="5px">
-            {single.JobTitle}
+            {change(single.JobTitle)}
           </Text>
           <Text fontWeight="bold" m="5px">
             {single.companyName}

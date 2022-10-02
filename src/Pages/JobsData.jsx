@@ -9,6 +9,8 @@ import {
   Button,
   UnorderedList,
   ListItem,
+  Stack,
+  Skeleton,
 } from "@chakra-ui/react";
 import SingleData from "./SingleData";
 function Jobdata(setJobData, setLoading, page = 1, role, location, setpages) {
@@ -101,11 +103,30 @@ function Jobdata(setJobData, setLoading, page = 1, role, location, setpages) {
   }
 }
 function JobsData(Props) {
+  const change =(data) => {
+     switch(data){
+      case "Front_End_Developer":
+        return "Front End Developer"
+      case "Back_End_Developer":
+        return  "Backend End Developer"
+      case "Full_Stack_Web_Developer":
+        return "Full stack developer"
+      case "Data_Scientist":
+        return "Data Scientist"
+      case "Human_Resourcer":
+        return "Human Resourcer"
+      case "Software_Engineer": 
+        return "Software Engineer"
+      default:
+        return data
+    }
+  }
+
   const [pages, setpages] = useState(1);
   const { role, location } = Props;
   const [loading, setLoading] = useState(true);
   const [jobData, setJobData] = useState([]);
-
+  const [ids,setids]= useState(1);
   const [page, setPage] = useState(1);
 
   const handlePageChange = (n) => {
@@ -113,9 +134,13 @@ function JobsData(Props) {
   };
   useEffect(() => {
     Jobdata(setJobData, setLoading, page, role, location, setpages);
-  }, [page, location, role, pages]);
+  }, [page, location, role, pages,ids]);
   if (loading) {
-    return <Text>...Loading</Text>;
+    return <Stack>
+    <Skeleton  color='black' height='20px' />
+    <Skeleton height='20px' />
+    <Skeleton height='20px' />
+  </Stack>
   }
   return (
     <div>
@@ -125,6 +150,7 @@ function JobsData(Props) {
             {jobData?.map((el, i) => {
               return (
                 <Box
+                onClick={()=>setids(el.id)}
                   key={el.id}
                   w="600px"
                   boxShadow="xs"
@@ -134,7 +160,7 @@ function JobsData(Props) {
                   m="10px 0px"
                 >
                   <Text fontWeight="bold" m="5px">
-                    {el.JobTitle}
+                    {change(el.JobTitle)}
                   </Text>
                   <Text fontWeight="bold" m="5px">
                     {el.companyName}
@@ -187,7 +213,7 @@ function JobsData(Props) {
             </Flex>
           </Flex>
           <Flex>
-            <SingleData />
+            <SingleData ii={ids}/>
           </Flex>
         </SimpleGrid>
       </Box>

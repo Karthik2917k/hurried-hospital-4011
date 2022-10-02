@@ -45,7 +45,7 @@ function SalaryGuide() {
             salaries and more
           </Text>
         </Box>
-        <Box w="80%" m="auto" mt="50px" pb="50px">
+        {/* <Box w="80%" m="auto" mt="50px" pb="50px">
           <Flex>
             <HStack>
               <Box
@@ -80,7 +80,7 @@ function SalaryGuide() {
               </Box>
             </HStack>
           </Flex>
-        </Box>
+        </Box> */}
       </Box>
       {/*Avg salary */}
       <Box w="80%" m="auto">
