@@ -74,7 +74,7 @@ function SingleData() {
           {single.urgentlyHiring && <Button>{single.urgentlyHiring}</Button>}
           {login === true ? (
             <Button bg="blue.600" color="white" m="20px 20px">
-              <Link href="/applnow">ApplyNow</Link>
+              <Link href="/applynow">ApplyNow</Link>
             </Button>
           ) : (
             <Button bg="blue.600" color="white" m="20px 20px">
