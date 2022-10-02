@@ -3622,6 +3622,12 @@
     }
   ],
   "users": [
-    
+    {
+      "firstName": "Karthik",
+      "lastName": "k",
+      "email": "a@gmail.com",
+      "password": "1234",
+      "id": 1
+    }
   ]
 }

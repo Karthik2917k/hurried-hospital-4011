@@ -73,7 +73,7 @@ Employers: Post a job – Your next hire is here */}
         
       </Box>
       <Box  backgroundColor="gray.100">
-        <JobsData role={role} location={location}/>np
+        <JobsData role={role} location={location}/>
       </Box>
     </div>
   );
