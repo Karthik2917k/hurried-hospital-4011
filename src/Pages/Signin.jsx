@@ -10,11 +10,36 @@ import {
   Button,
   Heading,
   Text,
-  useColorModeValue,
-  Container,
+  useColorModeValue
 } from '@chakra-ui/react';
-
+import axios from 'axios';
+import { useContext, useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { Authcontext } from '../AuthhContext/AuthContext';
 export default function Signin() {
+  let {auth,setAuth}=useContext(Authcontext);
+  console.log(auth)
+  let navigate=useNavigate();
+  
+ const[email,setEmail]=useState("");
+ const[password,setPassword]=useState("");
+ const [data,setData]=useState([]);
+ const handleSubmit = ()=>{
+  axios.get(`http://localhost:8080/users?email=${email}&password=${password}`)
+  .then(res=>setData(res.data))
+  .catch(err=>console.log(err))
+  .finally(console.log("completed"))
+console.log(data)
+  if(data.length>0){
+    setAuth(true);
+    navigate('/')
+  }
+ }
+  useEffect(()=>{
+    if(auth){
+      navigate('/')
+    }
+  })
   return (
     <Flex
       minH={'100vh'}
@@ -25,9 +50,6 @@ export default function Signin() {
       <Stack spacing={8} mx={'auto'} maxW={'lg'} py={12} px={6}>
         <Stack align={'center'}>
           <Heading fontSize={'4xl'}>Sign in to your account</Heading>
-          <Text fontSize={'lg'} color={'gray.600'}>
-            to enjoy all of our cool <Link color={'blue.400'}>features</Link> ✌️
-          </Text>
         </Stack>
         <Box
           rounded={'lg'}
@@ -37,11 +59,11 @@ export default function Signin() {
           <Stack spacing={4}>
             <FormControl id="email">
               <FormLabel>Email address</FormLabel>
-              <Input type="email" />
+              <Input type="email" onChange={(e)=>setEmail(e.target.value)} value={email} />
             </FormControl>
             <FormControl id="password">
               <FormLabel>Password</FormLabel>
-              <Input type="password" />
+              <Input type="password" onChange={(e)=>setPassword(e.target.value)} value={password} />
             </FormControl>
             <Stack spacing={10}>
               <Stack
@@ -52,6 +74,7 @@ export default function Signin() {
                 
               </Stack>
               <Button
+              onClick={handleSubmit}
                 bg={'blue.400'}
                 color={'white'}
                 _hover={{

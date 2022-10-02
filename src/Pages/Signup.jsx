@@ -30,9 +30,11 @@ export default function Signup() {
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({ ...formdata, [name]: value });
+    console.log(formdata);
   };
-  const addUser = (formdata) => {
+  const addUser = () => {
     const { firstName, lastName, email, password } = formdata;
+
     axios
       .post("http://localhost:8080/users", {
         firstName: firstName,
@@ -43,6 +45,7 @@ export default function Signup() {
       .then((res) => console.log(res.data))
       .catch((err) => console.log(err))
       .finally(console.log("completed"));
+    console.log("kj", formdata);
   };
   const { firstName, lastName, email, password } = formdata;
   return (
@@ -126,7 +129,7 @@ export default function Signup() {
               </InputGroup>
             </FormControl>
             <Stack spacing={10} pt={2}>
-              <Button
+              <Link href="/login"><Button
                 loadingText="Submitting"
                 size="lg"
                 bg={"blue.400"}
@@ -137,7 +140,7 @@ export default function Signup() {
                 }}
               >
                 Sign up
-              </Button>
+              </Button></Link>
             </Stack>
             <Stack pt={6}>
               <Text align={"center"}>
